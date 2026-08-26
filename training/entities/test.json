@@ -1,0 +1,7837 @@
+[
+  {
+    "text": "What will the wind speed be in Bengaluru tomorrow?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 18,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "label": "LOCATION"
+      },
+      {
+        "start": 41,
+        "end": 49,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the UV index in Kolkata today?",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "UV_INDEX"
+      },
+      {
+        "start": 24,
+        "end": 31,
+        "label": "LOCATION"
+      },
+      {
+        "start": 32,
+        "end": 37,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the humidity be in Patna next week?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "label": "HUMIDITY"
+      },
+      {
+        "start": 29,
+        "end": 34,
+        "label": "LOCATION"
+      },
+      {
+        "start": 35,
+        "end": 44,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "क्या मुंबई में आज सुबह भारी बारिश होगी?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "LOCATION"
+      },
+      {
+        "start": 15,
+        "end": 22,
+        "label": "DATE"
+      },
+      {
+        "start": 23,
+        "end": 33,
+        "label": "RAIN_INTENSITY"
+      }
+    ]
+  },
+  {
+    "text": "What will the weather be like in Pune this afternoon?",
+    "entities": [
+      {
+        "start": 33,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 52,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the UV index in Kolkata tomorrow?",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "UV_INDEX"
+      },
+      {
+        "start": 24,
+        "end": 31,
+        "label": "LOCATION"
+      },
+      {
+        "start": 32,
+        "end": 40,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "क्या मुंबई में कल सुबह भारी बारिश होगी?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "LOCATION"
+      },
+      {
+        "start": 15,
+        "end": 22,
+        "label": "DATE"
+      },
+      {
+        "start": 23,
+        "end": 33,
+        "label": "RAIN_INTENSITY"
+      }
+    ]
+  },
+  {
+    "text": "Is rain expected in Indore tomorrow?",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "label": "RAIN"
+      },
+      {
+        "start": 20,
+        "end": 26,
+        "label": "LOCATION"
+      },
+      {
+        "start": 27,
+        "end": 35,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will there be strong wind in Mumbai today?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 25,
+        "label": "WIND_INTENSITY"
+      },
+      {
+        "start": 29,
+        "end": 35,
+        "label": "LOCATION"
+      },
+      {
+        "start": 36,
+        "end": 41,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Is rain expected in Bhopal this afternoon?",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "label": "RAIN"
+      },
+      {
+        "start": 20,
+        "end": 26,
+        "label": "LOCATION"
+      },
+      {
+        "start": 27,
+        "end": 41,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Delhi mein aaj subah hawa tez hogi?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "LOCATION"
+      },
+      {
+        "start": 11,
+        "end": 20,
+        "label": "DATE"
+      },
+      {
+        "start": 21,
+        "end": 25,
+        "label": "WIND"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Lucknow at 8 AM?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "label": "LOCATION"
+      },
+      {
+        "start": 27,
+        "end": 31,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "What will the humidity be in Visakhapatnam this afternoon?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "label": "HUMIDITY"
+      },
+      {
+        "start": 29,
+        "end": 42,
+        "label": "LOCATION"
+      },
+      {
+        "start": 43,
+        "end": 57,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Is rain expected in Pune today?",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "label": "RAIN"
+      },
+      {
+        "start": 20,
+        "end": 24,
+        "label": "LOCATION"
+      },
+      {
+        "start": 25,
+        "end": 30,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the wind speed be in Bengaluru this afternoon?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 18,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "label": "LOCATION"
+      },
+      {
+        "start": 41,
+        "end": 55,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "क्या जयपुर में आज सुबह भारी बारिश होगी?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "LOCATION"
+      },
+      {
+        "start": 15,
+        "end": 22,
+        "label": "DATE"
+      },
+      {
+        "start": 23,
+        "end": 33,
+        "label": "RAIN_INTENSITY"
+      }
+    ]
+  },
+  {
+    "text": "अहमदाबाद में नमी कितनी होगी?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "LOCATION"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "HUMIDITY"
+      }
+    ]
+  },
+  {
+    "text": "How will the weather be in Patna next week?",
+    "entities": [
+      {
+        "start": 27,
+        "end": 32,
+        "label": "LOCATION"
+      },
+      {
+        "start": 33,
+        "end": 42,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will visibility be low in Kolkata this afternoon?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 15,
+        "label": "VISIBILITY"
+      },
+      {
+        "start": 26,
+        "end": 33,
+        "label": "LOCATION"
+      },
+      {
+        "start": 34,
+        "end": 48,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the humidity be in Mumbai today?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "label": "HUMIDITY"
+      },
+      {
+        "start": 29,
+        "end": 35,
+        "label": "LOCATION"
+      },
+      {
+        "start": 36,
+        "end": 41,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Guwahati yesterday?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 31,
+        "label": "LOCATION"
+      },
+      {
+        "start": 32,
+        "end": 41,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will there be heavy rain in Guwahati today?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 36,
+        "label": "LOCATION"
+      },
+      {
+        "start": 37,
+        "end": 42,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the UV index in Lucknow yesterday?",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "UV_INDEX"
+      },
+      {
+        "start": 24,
+        "end": 31,
+        "label": "LOCATION"
+      },
+      {
+        "start": 32,
+        "end": 41,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will there be heavy rain in Chandigarh tomorrow?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 38,
+        "label": "LOCATION"
+      },
+      {
+        "start": 39,
+        "end": 47,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Bhubaneswar at 10 AM?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 27,
+        "label": "LOCATION"
+      },
+      {
+        "start": 31,
+        "end": 36,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "What will the visibility be in Bengaluru this afternoon?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "VISIBILITY"
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "label": "LOCATION"
+      },
+      {
+        "start": 41,
+        "end": 55,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Lucknow next week?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 30,
+        "label": "LOCATION"
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Hyderabad at 3 PM?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 32,
+        "label": "LOCATION"
+      },
+      {
+        "start": 36,
+        "end": 40,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "Will there be heavy rain in Chandigarh yesterday?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 38,
+        "label": "LOCATION"
+      },
+      {
+        "start": 39,
+        "end": 48,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Mumbai mein kal subah baarish hogi?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "LOCATION"
+      },
+      {
+        "start": 12,
+        "end": 21,
+        "label": "DATE"
+      },
+      {
+        "start": 22,
+        "end": 29,
+        "label": "RAIN"
+      }
+    ]
+  },
+  {
+    "text": "Bengaluru ka AQI aaj subah kitna hoga?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "LOCATION"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "AQI"
+      },
+      {
+        "start": 17,
+        "end": 26,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Kolkata this afternoon?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 30,
+        "label": "LOCATION"
+      },
+      {
+        "start": 31,
+        "end": 45,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Lucknow at 12 PM?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "label": "LOCATION"
+      },
+      {
+        "start": 27,
+        "end": 32,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "How high will the UV index be in Jaipur yesterday?",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "label": "UV_INDEX"
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "label": "LOCATION"
+      },
+      {
+        "start": 40,
+        "end": 49,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Bhubaneswar at 6 AM?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 27,
+        "label": "LOCATION"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "How high will the UV index be in Srinagar tomorrow?",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "label": "UV_INDEX"
+      },
+      {
+        "start": 33,
+        "end": 41,
+        "label": "LOCATION"
+      },
+      {
+        "start": 42,
+        "end": 50,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Hyderabad ka AQI kal kitna hoga?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "LOCATION"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "AQI"
+      },
+      {
+        "start": 17,
+        "end": 20,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How strong will the wind be in Jaipur today?",
+    "entities": [
+      {
+        "start": 20,
+        "end": 24,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 43,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will there be light rain in Guwahati this afternoon?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 36,
+        "label": "LOCATION"
+      },
+      {
+        "start": 37,
+        "end": 51,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the humidity be in Guwahati yesterday?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "label": "HUMIDITY"
+      },
+      {
+        "start": 29,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 47,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the weather be like in Delhi next week?",
+    "entities": [
+      {
+        "start": 33,
+        "end": 38,
+        "label": "LOCATION"
+      },
+      {
+        "start": 39,
+        "end": 48,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Kochi today?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 28,
+        "label": "LOCATION"
+      },
+      {
+        "start": 29,
+        "end": 34,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the wind speed be in Kochi today?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 18,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 36,
+        "label": "LOCATION"
+      },
+      {
+        "start": 37,
+        "end": 42,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Kolkata mein kal baarish hogi?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "LOCATION"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "DATE"
+      },
+      {
+        "start": 17,
+        "end": 24,
+        "label": "RAIN"
+      }
+    ]
+  },
+  {
+    "text": "Will there be heavy rain in Chennai next week?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 35,
+        "label": "LOCATION"
+      },
+      {
+        "start": 36,
+        "end": 45,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How will the weather be in Ahmedabad next week?",
+    "entities": [
+      {
+        "start": 27,
+        "end": 36,
+        "label": "LOCATION"
+      },
+      {
+        "start": 37,
+        "end": 46,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the wind speed be in Hyderabad today?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 18,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "label": "LOCATION"
+      },
+      {
+        "start": 41,
+        "end": 46,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Hyderabad mein aaj humidity kitni hogi?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "LOCATION"
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "label": "DATE"
+      },
+      {
+        "start": 19,
+        "end": 27,
+        "label": "HUMIDITY"
+      }
+    ]
+  },
+  {
+    "text": "What is the AQI in Visakhapatnam next week?",
+    "entities": [
+      {
+        "start": 12,
+        "end": 15,
+        "label": "AQI"
+      },
+      {
+        "start": 19,
+        "end": 32,
+        "label": "LOCATION"
+      },
+      {
+        "start": 33,
+        "end": 42,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How strong will the wind be in Jaipur this afternoon?",
+    "entities": [
+      {
+        "start": 20,
+        "end": 24,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 52,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "क्या भुवनेश्वर में कल सुबह भारी बारिश होगी?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 14,
+        "label": "LOCATION"
+      },
+      {
+        "start": 19,
+        "end": 26,
+        "label": "DATE"
+      },
+      {
+        "start": 27,
+        "end": 37,
+        "label": "RAIN_INTENSITY"
+      }
+    ]
+  },
+  {
+    "text": "What will the humidity be in Chandigarh tomorrow?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "label": "HUMIDITY"
+      },
+      {
+        "start": 29,
+        "end": 39,
+        "label": "LOCATION"
+      },
+      {
+        "start": 40,
+        "end": 48,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "क्या लखनऊ में आज बारिश होगी?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "LOCATION"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "label": "DATE"
+      },
+      {
+        "start": 17,
+        "end": 22,
+        "label": "RAIN"
+      }
+    ]
+  },
+  {
+    "text": "What will the wind speed be in Ahmedabad yesterday?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 18,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "label": "LOCATION"
+      },
+      {
+        "start": 41,
+        "end": 50,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the wind speed be in Patna next week?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 18,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 36,
+        "label": "LOCATION"
+      },
+      {
+        "start": 37,
+        "end": 46,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Patna mein kal shaam humidity kitni hogi?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "LOCATION"
+      },
+      {
+        "start": 11,
+        "end": 20,
+        "label": "DATE"
+      },
+      {
+        "start": 21,
+        "end": 29,
+        "label": "HUMIDITY"
+      }
+    ]
+  },
+  {
+    "text": "Pune ka AQI kal kitna hoga?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "LOCATION"
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "label": "AQI"
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will there be heavy rain in Pune next week?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 32,
+        "label": "LOCATION"
+      },
+      {
+        "start": 33,
+        "end": 42,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Jaipur this afternoon?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "label": "LOCATION"
+      },
+      {
+        "start": 23,
+        "end": 37,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Patna ka AQI aaj kitna hoga?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "LOCATION"
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "label": "AQI"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will there be heavy rain in Kochi yesterday?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 33,
+        "label": "LOCATION"
+      },
+      {
+        "start": 34,
+        "end": 43,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Pune tomorrow?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "label": "LOCATION"
+      },
+      {
+        "start": 21,
+        "end": 29,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the wind speed be in Indore tomorrow?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 18,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 46,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Bhubaneswar at 9 PM?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 27,
+        "label": "LOCATION"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "What will the weather be like in Kolkata today?",
+    "entities": [
+      {
+        "start": 33,
+        "end": 40,
+        "label": "LOCATION"
+      },
+      {
+        "start": 41,
+        "end": 46,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Mumbai at 10 AM?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 29,
+        "label": "LOCATION"
+      },
+      {
+        "start": 33,
+        "end": 38,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "Will there be strong wind in Visakhapatnam today?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 25,
+        "label": "WIND_INTENSITY"
+      },
+      {
+        "start": 29,
+        "end": 42,
+        "label": "LOCATION"
+      },
+      {
+        "start": 43,
+        "end": 48,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Bengaluru at midnight?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 25,
+        "label": "LOCATION"
+      },
+      {
+        "start": 29,
+        "end": 37,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "Chennai mein aaj subah baarish hogi?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "LOCATION"
+      },
+      {
+        "start": 13,
+        "end": 22,
+        "label": "DATE"
+      },
+      {
+        "start": 23,
+        "end": 30,
+        "label": "RAIN"
+      }
+    ]
+  },
+  {
+    "text": "Will there be heavy rain in Ranchi tomorrow?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 34,
+        "label": "LOCATION"
+      },
+      {
+        "start": 35,
+        "end": 43,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will there be strong wind in Srinagar tomorrow?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 25,
+        "label": "WIND_INTENSITY"
+      },
+      {
+        "start": 29,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 46,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will visibility be low in Bengaluru this afternoon?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 15,
+        "label": "VISIBILITY"
+      },
+      {
+        "start": 26,
+        "end": 35,
+        "label": "LOCATION"
+      },
+      {
+        "start": 36,
+        "end": 50,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How strong will the wind be in Chennai tomorrow?",
+    "entities": [
+      {
+        "start": 20,
+        "end": 24,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 38,
+        "label": "LOCATION"
+      },
+      {
+        "start": 39,
+        "end": 47,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the weather be like in Indore this afternoon?",
+    "entities": [
+      {
+        "start": 33,
+        "end": 39,
+        "label": "LOCATION"
+      },
+      {
+        "start": 40,
+        "end": 54,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How humid will Ranchi be this afternoon?",
+    "entities": [
+      {
+        "start": 4,
+        "end": 9,
+        "label": "HUMIDITY"
+      },
+      {
+        "start": 15,
+        "end": 21,
+        "label": "LOCATION"
+      },
+      {
+        "start": 25,
+        "end": 39,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will there be heavy rain in Kochi today?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 33,
+        "label": "LOCATION"
+      },
+      {
+        "start": 34,
+        "end": 39,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Delhi mein kal shaam baarish hogi?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "LOCATION"
+      },
+      {
+        "start": 11,
+        "end": 20,
+        "label": "DATE"
+      },
+      {
+        "start": 21,
+        "end": 28,
+        "label": "RAIN"
+      }
+    ]
+  },
+  {
+    "text": "दिल्ली का AQI कितना है?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "LOCATION"
+      },
+      {
+        "start": 10,
+        "end": 13,
+        "label": "AQI"
+      }
+    ]
+  },
+  {
+    "text": "क्या लखनऊ में कल शाम हल्की बारिश होगी?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "LOCATION"
+      },
+      {
+        "start": 14,
+        "end": 20,
+        "label": "DATE"
+      },
+      {
+        "start": 21,
+        "end": 32,
+        "label": "RAIN_INTENSITY"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Chennai at 3 PM?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 30,
+        "label": "LOCATION"
+      },
+      {
+        "start": 34,
+        "end": 38,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Delhi today?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 21,
+        "label": "LOCATION"
+      },
+      {
+        "start": 22,
+        "end": 27,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Is rain expected in Hyderabad yesterday?",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "label": "RAIN"
+      },
+      {
+        "start": 20,
+        "end": 29,
+        "label": "LOCATION"
+      },
+      {
+        "start": 30,
+        "end": 39,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Patna at 6 AM?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 28,
+        "label": "LOCATION"
+      },
+      {
+        "start": 32,
+        "end": 36,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "How bad is the air quality in Delhi yesterday?",
+    "entities": [
+      {
+        "start": 15,
+        "end": 26,
+        "label": "AQI"
+      },
+      {
+        "start": 30,
+        "end": 35,
+        "label": "LOCATION"
+      },
+      {
+        "start": 36,
+        "end": 45,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the weather be like in Kolkata yesterday?",
+    "entities": [
+      {
+        "start": 33,
+        "end": 40,
+        "label": "LOCATION"
+      },
+      {
+        "start": 41,
+        "end": 50,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Visakhapatnam next week?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 36,
+        "label": "LOCATION"
+      },
+      {
+        "start": 37,
+        "end": 46,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Indore at 8 AM?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 29,
+        "label": "LOCATION"
+      },
+      {
+        "start": 33,
+        "end": 37,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "What is the AQI in Delhi today?",
+    "entities": [
+      {
+        "start": 12,
+        "end": 15,
+        "label": "AQI"
+      },
+      {
+        "start": 19,
+        "end": 24,
+        "label": "LOCATION"
+      },
+      {
+        "start": 25,
+        "end": 30,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How strong will the wind be in Indore yesterday?",
+    "entities": [
+      {
+        "start": 20,
+        "end": 24,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 47,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Guwahati next week?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 24,
+        "label": "LOCATION"
+      },
+      {
+        "start": 25,
+        "end": 34,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will visibility be low in Chandigarh yesterday?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 15,
+        "label": "VISIBILITY"
+      },
+      {
+        "start": 26,
+        "end": 36,
+        "label": "LOCATION"
+      },
+      {
+        "start": 37,
+        "end": 46,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How strong will the wind be in Lucknow today?",
+    "entities": [
+      {
+        "start": 20,
+        "end": 24,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 38,
+        "label": "LOCATION"
+      },
+      {
+        "start": 39,
+        "end": 44,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the wind speed be in Mumbai this afternoon?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 18,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 52,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the humidity be in Chennai yesterday?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "label": "HUMIDITY"
+      },
+      {
+        "start": 29,
+        "end": 36,
+        "label": "LOCATION"
+      },
+      {
+        "start": 37,
+        "end": 46,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "क्या भुवनेश्वर में कल शाम भारी बारिश होगी?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 14,
+        "label": "LOCATION"
+      },
+      {
+        "start": 19,
+        "end": 25,
+        "label": "DATE"
+      },
+      {
+        "start": 26,
+        "end": 36,
+        "label": "RAIN_INTENSITY"
+      }
+    ]
+  },
+  {
+    "text": "Will there be strong wind in Bhubaneswar this afternoon?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 25,
+        "label": "WIND_INTENSITY"
+      },
+      {
+        "start": 29,
+        "end": 40,
+        "label": "LOCATION"
+      },
+      {
+        "start": 41,
+        "end": 55,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How humid will Bengaluru be tomorrow?",
+    "entities": [
+      {
+        "start": 4,
+        "end": 9,
+        "label": "HUMIDITY"
+      },
+      {
+        "start": 15,
+        "end": 24,
+        "label": "LOCATION"
+      },
+      {
+        "start": 28,
+        "end": 36,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Is there a flood warning for Indore?",
+    "entities": [
+      {
+        "start": 11,
+        "end": 16,
+        "label": "FLOOD"
+      },
+      {
+        "start": 29,
+        "end": 35,
+        "label": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Patna at 3 PM?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 21,
+        "label": "LOCATION"
+      },
+      {
+        "start": 25,
+        "end": 29,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "Bhubaneswar mein kal humidity kitni hogi?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "label": "LOCATION"
+      },
+      {
+        "start": 17,
+        "end": 20,
+        "label": "DATE"
+      },
+      {
+        "start": 21,
+        "end": 29,
+        "label": "HUMIDITY"
+      }
+    ]
+  },
+  {
+    "text": "How high will the UV index be in Hyderabad today?",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "label": "UV_INDEX"
+      },
+      {
+        "start": 33,
+        "end": 42,
+        "label": "LOCATION"
+      },
+      {
+        "start": 43,
+        "end": 48,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will there be light rain in Mumbai this afternoon?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 34,
+        "label": "LOCATION"
+      },
+      {
+        "start": 35,
+        "end": 49,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Patna next week?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 28,
+        "label": "LOCATION"
+      },
+      {
+        "start": 29,
+        "end": 38,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Indore at 6 AM?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "label": "LOCATION"
+      },
+      {
+        "start": 26,
+        "end": 30,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Srinagar at 6 AM?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 24,
+        "label": "LOCATION"
+      },
+      {
+        "start": 28,
+        "end": 32,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "Will there be strong wind in Chennai this afternoon?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 25,
+        "label": "WIND_INTENSITY"
+      },
+      {
+        "start": 29,
+        "end": 36,
+        "label": "LOCATION"
+      },
+      {
+        "start": 37,
+        "end": 51,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Guwahati at 6 PM?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 24,
+        "label": "LOCATION"
+      },
+      {
+        "start": 28,
+        "end": 32,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "Will there be light rain in Lucknow yesterday?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 35,
+        "label": "LOCATION"
+      },
+      {
+        "start": 36,
+        "end": 45,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will visibility be low in Indore this afternoon?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 15,
+        "label": "VISIBILITY"
+      },
+      {
+        "start": 26,
+        "end": 32,
+        "label": "LOCATION"
+      },
+      {
+        "start": 33,
+        "end": 47,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will there be strong wind in Delhi this afternoon?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 25,
+        "label": "WIND_INTENSITY"
+      },
+      {
+        "start": 29,
+        "end": 34,
+        "label": "LOCATION"
+      },
+      {
+        "start": 35,
+        "end": 49,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the weather be like in Indore yesterday?",
+    "entities": [
+      {
+        "start": 33,
+        "end": 39,
+        "label": "LOCATION"
+      },
+      {
+        "start": 40,
+        "end": 49,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Indore at 8 AM?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "label": "LOCATION"
+      },
+      {
+        "start": 26,
+        "end": 30,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "How will the weather be in Indore this afternoon?",
+    "entities": [
+      {
+        "start": 27,
+        "end": 33,
+        "label": "LOCATION"
+      },
+      {
+        "start": 34,
+        "end": 48,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "क्या चेन्नई में कल सुबह भारी बारिश होगी?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 11,
+        "label": "LOCATION"
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "label": "DATE"
+      },
+      {
+        "start": 24,
+        "end": 34,
+        "label": "RAIN_INTENSITY"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Mumbai yesterday?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "label": "LOCATION"
+      },
+      {
+        "start": 23,
+        "end": 32,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "जयपुर का AQI कितना है?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "LOCATION"
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "label": "AQI"
+      }
+    ]
+  },
+  {
+    "text": "How will the weather be in Chandigarh yesterday?",
+    "entities": [
+      {
+        "start": 27,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 47,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Ranchi tomorrow?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "label": "LOCATION"
+      },
+      {
+        "start": 23,
+        "end": 31,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Mumbai at 9 PM?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "label": "LOCATION"
+      },
+      {
+        "start": 26,
+        "end": 30,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "How bad is the air quality in Indore this afternoon?",
+    "entities": [
+      {
+        "start": 15,
+        "end": 26,
+        "label": "AQI"
+      },
+      {
+        "start": 30,
+        "end": 36,
+        "label": "LOCATION"
+      },
+      {
+        "start": 37,
+        "end": 51,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the AQI in Jaipur today?",
+    "entities": [
+      {
+        "start": 12,
+        "end": 15,
+        "label": "AQI"
+      },
+      {
+        "start": 19,
+        "end": 25,
+        "label": "LOCATION"
+      },
+      {
+        "start": 26,
+        "end": 31,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Chandigarh at 12 PM?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 33,
+        "label": "LOCATION"
+      },
+      {
+        "start": 37,
+        "end": 42,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "How will the weather be in Ahmedabad this afternoon?",
+    "entities": [
+      {
+        "start": 27,
+        "end": 36,
+        "label": "LOCATION"
+      },
+      {
+        "start": 37,
+        "end": 51,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Chandigarh this afternoon?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 33,
+        "label": "LOCATION"
+      },
+      {
+        "start": 34,
+        "end": 48,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the humidity be in Chennai tomorrow?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "label": "HUMIDITY"
+      },
+      {
+        "start": 29,
+        "end": 36,
+        "label": "LOCATION"
+      },
+      {
+        "start": 37,
+        "end": 45,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Bhopal this afternoon?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 29,
+        "label": "LOCATION"
+      },
+      {
+        "start": 30,
+        "end": 44,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Bengaluru at 6 PM?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 32,
+        "label": "LOCATION"
+      },
+      {
+        "start": 36,
+        "end": 40,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Srinagar at 8 AM?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 31,
+        "label": "LOCATION"
+      },
+      {
+        "start": 35,
+        "end": 39,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "What will the weather be like in Chandigarh next week?",
+    "entities": [
+      {
+        "start": 33,
+        "end": 43,
+        "label": "LOCATION"
+      },
+      {
+        "start": 44,
+        "end": 53,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "क्या पटना में कल शाम हल्की बारिश होगी?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "LOCATION"
+      },
+      {
+        "start": 14,
+        "end": 20,
+        "label": "DATE"
+      },
+      {
+        "start": 21,
+        "end": 32,
+        "label": "RAIN_INTENSITY"
+      }
+    ]
+  },
+  {
+    "text": "Will there be strong wind in Ranchi yesterday?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 25,
+        "label": "WIND_INTENSITY"
+      },
+      {
+        "start": 29,
+        "end": 35,
+        "label": "LOCATION"
+      },
+      {
+        "start": 36,
+        "end": 45,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "क्या बेंगलुरु में कल हल्की बारिश होगी?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "label": "LOCATION"
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "label": "DATE"
+      },
+      {
+        "start": 21,
+        "end": 32,
+        "label": "RAIN_INTENSITY"
+      }
+    ]
+  },
+  {
+    "text": "Will there be heavy rain in Bhopal this afternoon?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 34,
+        "label": "LOCATION"
+      },
+      {
+        "start": 35,
+        "end": 49,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How bad is the air quality in Kochi today?",
+    "entities": [
+      {
+        "start": 15,
+        "end": 26,
+        "label": "AQI"
+      },
+      {
+        "start": 30,
+        "end": 35,
+        "label": "LOCATION"
+      },
+      {
+        "start": 36,
+        "end": 41,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Jaipur at 8 AM?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 29,
+        "label": "LOCATION"
+      },
+      {
+        "start": 33,
+        "end": 37,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "What is the UV index in Pune this afternoon?",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "UV_INDEX"
+      },
+      {
+        "start": 24,
+        "end": 28,
+        "label": "LOCATION"
+      },
+      {
+        "start": 29,
+        "end": 43,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How strong will the wind be in Srinagar yesterday?",
+    "entities": [
+      {
+        "start": 20,
+        "end": 24,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 39,
+        "label": "LOCATION"
+      },
+      {
+        "start": 40,
+        "end": 49,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How high will the UV index be in Visakhapatnam this afternoon?",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "label": "UV_INDEX"
+      },
+      {
+        "start": 33,
+        "end": 46,
+        "label": "LOCATION"
+      },
+      {
+        "start": 47,
+        "end": 61,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will there be strong wind in Jaipur next week?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 25,
+        "label": "WIND_INTENSITY"
+      },
+      {
+        "start": 29,
+        "end": 35,
+        "label": "LOCATION"
+      },
+      {
+        "start": 36,
+        "end": 45,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will visibility be low in Ahmedabad tomorrow?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 15,
+        "label": "VISIBILITY"
+      },
+      {
+        "start": 26,
+        "end": 35,
+        "label": "LOCATION"
+      },
+      {
+        "start": 36,
+        "end": 44,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the weather be like in Delhi yesterday?",
+    "entities": [
+      {
+        "start": 33,
+        "end": 38,
+        "label": "LOCATION"
+      },
+      {
+        "start": 39,
+        "end": 48,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the visibility be in Jaipur this afternoon?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "VISIBILITY"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 52,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will there be heavy rain in Indore this afternoon?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 34,
+        "label": "LOCATION"
+      },
+      {
+        "start": 35,
+        "end": 49,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Bhopal today?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 29,
+        "label": "LOCATION"
+      },
+      {
+        "start": 30,
+        "end": 35,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the visibility be in Ranchi this afternoon?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "VISIBILITY"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 52,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "क्या लखनऊ में आज शाम भारी बारिश होगी?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "LOCATION"
+      },
+      {
+        "start": 14,
+        "end": 20,
+        "label": "DATE"
+      },
+      {
+        "start": 21,
+        "end": 31,
+        "label": "RAIN_INTENSITY"
+      }
+    ]
+  },
+  {
+    "text": "How bad is the air quality in Lucknow next week?",
+    "entities": [
+      {
+        "start": 15,
+        "end": 26,
+        "label": "AQI"
+      },
+      {
+        "start": 30,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 47,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How bad is the air quality in Guwahati this afternoon?",
+    "entities": [
+      {
+        "start": 15,
+        "end": 26,
+        "label": "AQI"
+      },
+      {
+        "start": 30,
+        "end": 38,
+        "label": "LOCATION"
+      },
+      {
+        "start": 39,
+        "end": 53,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the visibility be in Visakhapatnam next week?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "VISIBILITY"
+      },
+      {
+        "start": 31,
+        "end": 44,
+        "label": "LOCATION"
+      },
+      {
+        "start": 45,
+        "end": 54,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Is rain expected in Visakhapatnam today?",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "label": "RAIN"
+      },
+      {
+        "start": 20,
+        "end": 33,
+        "label": "LOCATION"
+      },
+      {
+        "start": 34,
+        "end": 39,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the wind speed be in Mumbai today?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 18,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 43,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will there be heavy rain in Bengaluru today?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 43,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Bengaluru today?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 32,
+        "label": "LOCATION"
+      },
+      {
+        "start": 33,
+        "end": 38,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Bengaluru at 10 AM?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 32,
+        "label": "LOCATION"
+      },
+      {
+        "start": 36,
+        "end": 41,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Ahmedabad next week?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 32,
+        "label": "LOCATION"
+      },
+      {
+        "start": 33,
+        "end": 42,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Is rain expected in Hyderabad today?",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "label": "RAIN"
+      },
+      {
+        "start": 20,
+        "end": 29,
+        "label": "LOCATION"
+      },
+      {
+        "start": 30,
+        "end": 35,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Pune at 9 PM?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 27,
+        "label": "LOCATION"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "How high will the UV index be in Srinagar next week?",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "label": "UV_INDEX"
+      },
+      {
+        "start": 33,
+        "end": 41,
+        "label": "LOCATION"
+      },
+      {
+        "start": 42,
+        "end": 51,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Delhi yesterday?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 21,
+        "label": "LOCATION"
+      },
+      {
+        "start": 22,
+        "end": 31,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will there be strong wind in Bengaluru this afternoon?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 25,
+        "label": "WIND_INTENSITY"
+      },
+      {
+        "start": 29,
+        "end": 38,
+        "label": "LOCATION"
+      },
+      {
+        "start": 39,
+        "end": 53,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the AQI in Kolkata tomorrow?",
+    "entities": [
+      {
+        "start": 12,
+        "end": 15,
+        "label": "AQI"
+      },
+      {
+        "start": 19,
+        "end": 26,
+        "label": "LOCATION"
+      },
+      {
+        "start": 27,
+        "end": 35,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Kolkata mein aaj subah baarish hogi?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "LOCATION"
+      },
+      {
+        "start": 13,
+        "end": 22,
+        "label": "DATE"
+      },
+      {
+        "start": 23,
+        "end": 30,
+        "label": "RAIN"
+      }
+    ]
+  },
+  {
+    "text": "क्या कोलकाता में आज सुबह बारिश होगी?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 12,
+        "label": "LOCATION"
+      },
+      {
+        "start": 17,
+        "end": 24,
+        "label": "DATE"
+      },
+      {
+        "start": 25,
+        "end": 30,
+        "label": "RAIN"
+      }
+    ]
+  },
+  {
+    "text": "Guwahati mein kal shaam baarish hogi?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "LOCATION"
+      },
+      {
+        "start": 14,
+        "end": 23,
+        "label": "DATE"
+      },
+      {
+        "start": 24,
+        "end": 31,
+        "label": "RAIN"
+      }
+    ]
+  },
+  {
+    "text": "Will there be heavy rain in Ahmedabad this afternoon?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 52,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How high will the UV index be in Ranchi today?",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "label": "UV_INDEX"
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "label": "LOCATION"
+      },
+      {
+        "start": 40,
+        "end": 45,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Patna mein aaj baarish hogi?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "LOCATION"
+      },
+      {
+        "start": 11,
+        "end": 14,
+        "label": "DATE"
+      },
+      {
+        "start": 15,
+        "end": 22,
+        "label": "RAIN"
+      }
+    ]
+  },
+  {
+    "text": "Kolkata mein kal subah humidity kitni hogi?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "LOCATION"
+      },
+      {
+        "start": 13,
+        "end": 22,
+        "label": "DATE"
+      },
+      {
+        "start": 23,
+        "end": 31,
+        "label": "HUMIDITY"
+      }
+    ]
+  },
+  {
+    "text": "क्या बेंगलुरु में आज शाम बारिश होगी?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "label": "LOCATION"
+      },
+      {
+        "start": 18,
+        "end": 24,
+        "label": "DATE"
+      },
+      {
+        "start": 25,
+        "end": 30,
+        "label": "RAIN"
+      }
+    ]
+  },
+  {
+    "text": "How strong will the wind be in Bengaluru yesterday?",
+    "entities": [
+      {
+        "start": 20,
+        "end": 24,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "label": "LOCATION"
+      },
+      {
+        "start": 41,
+        "end": 50,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will there be light rain in Bhubaneswar tomorrow?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 39,
+        "label": "LOCATION"
+      },
+      {
+        "start": 40,
+        "end": 48,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How humid will Ahmedabad be this afternoon?",
+    "entities": [
+      {
+        "start": 4,
+        "end": 9,
+        "label": "HUMIDITY"
+      },
+      {
+        "start": 15,
+        "end": 24,
+        "label": "LOCATION"
+      },
+      {
+        "start": 28,
+        "end": 42,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will visibility be low in Indore tomorrow?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 15,
+        "label": "VISIBILITY"
+      },
+      {
+        "start": 26,
+        "end": 32,
+        "label": "LOCATION"
+      },
+      {
+        "start": 33,
+        "end": 41,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the weather be like in Bhopal yesterday?",
+    "entities": [
+      {
+        "start": 33,
+        "end": 39,
+        "label": "LOCATION"
+      },
+      {
+        "start": 40,
+        "end": 49,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will there be light rain in Hyderabad today?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 43,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the weather be like in Srinagar this afternoon?",
+    "entities": [
+      {
+        "start": 33,
+        "end": 41,
+        "label": "LOCATION"
+      },
+      {
+        "start": 42,
+        "end": 56,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the AQI in Bengaluru today?",
+    "entities": [
+      {
+        "start": 12,
+        "end": 15,
+        "label": "AQI"
+      },
+      {
+        "start": 19,
+        "end": 28,
+        "label": "LOCATION"
+      },
+      {
+        "start": 29,
+        "end": 34,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How high will the UV index be in Mumbai this afternoon?",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "label": "UV_INDEX"
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "label": "LOCATION"
+      },
+      {
+        "start": 40,
+        "end": 54,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the UV index in Pune next week?",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "UV_INDEX"
+      },
+      {
+        "start": 24,
+        "end": 28,
+        "label": "LOCATION"
+      },
+      {
+        "start": 29,
+        "end": 38,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How humid will Visakhapatnam be next week?",
+    "entities": [
+      {
+        "start": 4,
+        "end": 9,
+        "label": "HUMIDITY"
+      },
+      {
+        "start": 15,
+        "end": 28,
+        "label": "LOCATION"
+      },
+      {
+        "start": 32,
+        "end": 41,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How high will the UV index be in Lucknow next week?",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "label": "UV_INDEX"
+      },
+      {
+        "start": 33,
+        "end": 40,
+        "label": "LOCATION"
+      },
+      {
+        "start": 41,
+        "end": 50,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Is rain expected in Bengaluru next week?",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "label": "RAIN"
+      },
+      {
+        "start": 20,
+        "end": 29,
+        "label": "LOCATION"
+      },
+      {
+        "start": 30,
+        "end": 39,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will there be heavy rain in Bengaluru tomorrow?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 46,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "क्या बेंगलुरु में कल सुबह भारी बारिश होगी?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "label": "LOCATION"
+      },
+      {
+        "start": 18,
+        "end": 25,
+        "label": "DATE"
+      },
+      {
+        "start": 26,
+        "end": 36,
+        "label": "RAIN_INTENSITY"
+      }
+    ]
+  },
+  {
+    "text": "How high will the UV index be in Delhi today?",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "label": "UV_INDEX"
+      },
+      {
+        "start": 33,
+        "end": 38,
+        "label": "LOCATION"
+      },
+      {
+        "start": 39,
+        "end": 44,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How bad is the air quality in Pune yesterday?",
+    "entities": [
+      {
+        "start": 15,
+        "end": 26,
+        "label": "AQI"
+      },
+      {
+        "start": 30,
+        "end": 34,
+        "label": "LOCATION"
+      },
+      {
+        "start": 35,
+        "end": 44,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the wind speed be in Kolkata next week?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 18,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 38,
+        "label": "LOCATION"
+      },
+      {
+        "start": 39,
+        "end": 48,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the AQI in Pune yesterday?",
+    "entities": [
+      {
+        "start": 12,
+        "end": 15,
+        "label": "AQI"
+      },
+      {
+        "start": 19,
+        "end": 23,
+        "label": "LOCATION"
+      },
+      {
+        "start": 24,
+        "end": 33,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Ahmedabad at 12 PM?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 32,
+        "label": "LOCATION"
+      },
+      {
+        "start": 36,
+        "end": 41,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Kochi at 6 AM?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 28,
+        "label": "LOCATION"
+      },
+      {
+        "start": 32,
+        "end": 36,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "Is rain expected in Kochi today?",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "label": "RAIN"
+      },
+      {
+        "start": 20,
+        "end": 25,
+        "label": "LOCATION"
+      },
+      {
+        "start": 26,
+        "end": 31,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Bengaluru mein aaj humidity kitni hogi?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "LOCATION"
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "label": "DATE"
+      },
+      {
+        "start": 19,
+        "end": 27,
+        "label": "HUMIDITY"
+      }
+    ]
+  },
+  {
+    "text": "क्या लखनऊ में आज सुबह बारिश होगी?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "LOCATION"
+      },
+      {
+        "start": 14,
+        "end": 21,
+        "label": "DATE"
+      },
+      {
+        "start": 22,
+        "end": 27,
+        "label": "RAIN"
+      }
+    ]
+  },
+  {
+    "text": "What is the AQI in Guwahati this afternoon?",
+    "entities": [
+      {
+        "start": 12,
+        "end": 15,
+        "label": "AQI"
+      },
+      {
+        "start": 19,
+        "end": 27,
+        "label": "LOCATION"
+      },
+      {
+        "start": 28,
+        "end": 42,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will there be strong wind in Kochi yesterday?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 25,
+        "label": "WIND_INTENSITY"
+      },
+      {
+        "start": 29,
+        "end": 34,
+        "label": "LOCATION"
+      },
+      {
+        "start": 35,
+        "end": 44,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the wind speed be in Mumbai yesterday?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 18,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 47,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Is there a flood warning for Pune?",
+    "entities": [
+      {
+        "start": 11,
+        "end": 16,
+        "label": "FLOOD"
+      },
+      {
+        "start": 29,
+        "end": 33,
+        "label": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Chennai mein kal humidity kitni hogi?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "LOCATION"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "DATE"
+      },
+      {
+        "start": 17,
+        "end": 25,
+        "label": "HUMIDITY"
+      }
+    ]
+  },
+  {
+    "text": "How humid will Patna be today?",
+    "entities": [
+      {
+        "start": 4,
+        "end": 9,
+        "label": "HUMIDITY"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "label": "LOCATION"
+      },
+      {
+        "start": 24,
+        "end": 29,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the weather be like in Jaipur yesterday?",
+    "entities": [
+      {
+        "start": 33,
+        "end": 39,
+        "label": "LOCATION"
+      },
+      {
+        "start": 40,
+        "end": 49,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Indore yesterday?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 29,
+        "label": "LOCATION"
+      },
+      {
+        "start": 30,
+        "end": 39,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "क्या अहमदाबाद में कल बारिश होगी?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "label": "LOCATION"
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "label": "DATE"
+      },
+      {
+        "start": 21,
+        "end": 26,
+        "label": "RAIN"
+      }
+    ]
+  },
+  {
+    "text": "How will the weather be in Bhopal today?",
+    "entities": [
+      {
+        "start": 27,
+        "end": 33,
+        "label": "LOCATION"
+      },
+      {
+        "start": 34,
+        "end": 39,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the weather be like in Visakhapatnam tomorrow?",
+    "entities": [
+      {
+        "start": 33,
+        "end": 46,
+        "label": "LOCATION"
+      },
+      {
+        "start": 47,
+        "end": 55,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the weather be like in Mumbai next week?",
+    "entities": [
+      {
+        "start": 33,
+        "end": 39,
+        "label": "LOCATION"
+      },
+      {
+        "start": 40,
+        "end": 49,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Patna mein aaj subah hawa tez hogi?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "LOCATION"
+      },
+      {
+        "start": 11,
+        "end": 20,
+        "label": "DATE"
+      },
+      {
+        "start": 21,
+        "end": 25,
+        "label": "WIND"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Bhopal at 3 PM?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 29,
+        "label": "LOCATION"
+      },
+      {
+        "start": 33,
+        "end": 37,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "क्या अहमदाबाद में कल सुबह हल्की बारिश होगी?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "label": "LOCATION"
+      },
+      {
+        "start": 18,
+        "end": 25,
+        "label": "DATE"
+      },
+      {
+        "start": 26,
+        "end": 37,
+        "label": "RAIN_INTENSITY"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Bhubaneswar at 6 PM?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 34,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 42,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Bhopal at 12 PM?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "label": "LOCATION"
+      },
+      {
+        "start": 26,
+        "end": 31,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "What will the weather be like in Hyderabad this afternoon?",
+    "entities": [
+      {
+        "start": 33,
+        "end": 42,
+        "label": "LOCATION"
+      },
+      {
+        "start": 43,
+        "end": 57,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the humidity be in Ahmedabad tomorrow?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "label": "HUMIDITY"
+      },
+      {
+        "start": 29,
+        "end": 38,
+        "label": "LOCATION"
+      },
+      {
+        "start": 39,
+        "end": 47,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How will the weather be in Ranchi yesterday?",
+    "entities": [
+      {
+        "start": 27,
+        "end": 33,
+        "label": "LOCATION"
+      },
+      {
+        "start": 34,
+        "end": 43,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "क्या कोच्चि में कल भारी बारिश होगी?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 11,
+        "label": "LOCATION"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "label": "DATE"
+      },
+      {
+        "start": 19,
+        "end": 29,
+        "label": "RAIN_INTENSITY"
+      }
+    ]
+  },
+  {
+    "text": "How strong will the wind be in Bengaluru tomorrow?",
+    "entities": [
+      {
+        "start": 20,
+        "end": 24,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "label": "LOCATION"
+      },
+      {
+        "start": 41,
+        "end": 49,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will there be light rain in Lucknow this afternoon?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 35,
+        "label": "LOCATION"
+      },
+      {
+        "start": 36,
+        "end": 50,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How high will the UV index be in Indore tomorrow?",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "label": "UV_INDEX"
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "label": "LOCATION"
+      },
+      {
+        "start": 40,
+        "end": 48,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Is there a cyclone near Guwahati?",
+    "entities": [
+      {
+        "start": 11,
+        "end": 18,
+        "label": "CYCLONE"
+      },
+      {
+        "start": 24,
+        "end": 32,
+        "label": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "What is the UV index in Kochi next week?",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "UV_INDEX"
+      },
+      {
+        "start": 24,
+        "end": 29,
+        "label": "LOCATION"
+      },
+      {
+        "start": 30,
+        "end": 39,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will visibility be low in Pune tomorrow?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 15,
+        "label": "VISIBILITY"
+      },
+      {
+        "start": 26,
+        "end": 30,
+        "label": "LOCATION"
+      },
+      {
+        "start": 31,
+        "end": 39,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the visibility be in Bhopal next week?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "VISIBILITY"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 47,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the humidity be in Kolkata yesterday?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "label": "HUMIDITY"
+      },
+      {
+        "start": 29,
+        "end": 36,
+        "label": "LOCATION"
+      },
+      {
+        "start": 37,
+        "end": 46,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "क्या पुणे में आज सुबह बारिश होगी?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "LOCATION"
+      },
+      {
+        "start": 14,
+        "end": 21,
+        "label": "DATE"
+      },
+      {
+        "start": 22,
+        "end": 27,
+        "label": "RAIN"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Chennai at midnight?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 30,
+        "label": "LOCATION"
+      },
+      {
+        "start": 34,
+        "end": 42,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "क्या लखनऊ में कल हल्की बारिश होगी?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "LOCATION"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "label": "DATE"
+      },
+      {
+        "start": 17,
+        "end": 28,
+        "label": "RAIN_INTENSITY"
+      }
+    ]
+  },
+  {
+    "text": "How high will the UV index be in Pune this afternoon?",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "label": "UV_INDEX"
+      },
+      {
+        "start": 33,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 52,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Delhi mein aaj shaam hawa tez hogi?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "LOCATION"
+      },
+      {
+        "start": 11,
+        "end": 20,
+        "label": "DATE"
+      },
+      {
+        "start": 21,
+        "end": 25,
+        "label": "WIND"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Delhi at midnight?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 21,
+        "label": "LOCATION"
+      },
+      {
+        "start": 25,
+        "end": 33,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "What will the wind speed be in Jaipur next week?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 18,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 47,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Indore next week?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "label": "LOCATION"
+      },
+      {
+        "start": 23,
+        "end": 32,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Pune at 3 PM?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "label": "LOCATION"
+      },
+      {
+        "start": 24,
+        "end": 28,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "What is the AQI in Bhubaneswar yesterday?",
+    "entities": [
+      {
+        "start": 12,
+        "end": 15,
+        "label": "AQI"
+      },
+      {
+        "start": 19,
+        "end": 30,
+        "label": "LOCATION"
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Is rain expected in Guwahati tomorrow?",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "label": "RAIN"
+      },
+      {
+        "start": 20,
+        "end": 28,
+        "label": "LOCATION"
+      },
+      {
+        "start": 29,
+        "end": 37,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will there be light rain in Patna this afternoon?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 33,
+        "label": "LOCATION"
+      },
+      {
+        "start": 34,
+        "end": 48,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Kolkata at 8 AM?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "label": "LOCATION"
+      },
+      {
+        "start": 27,
+        "end": 31,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "How will the weather be in Indore next week?",
+    "entities": [
+      {
+        "start": 27,
+        "end": 33,
+        "label": "LOCATION"
+      },
+      {
+        "start": 34,
+        "end": 43,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the AQI in Guwahati next week?",
+    "entities": [
+      {
+        "start": 12,
+        "end": 15,
+        "label": "AQI"
+      },
+      {
+        "start": 19,
+        "end": 27,
+        "label": "LOCATION"
+      },
+      {
+        "start": 28,
+        "end": 37,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will there be heavy rain in Kolkata yesterday?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 35,
+        "label": "LOCATION"
+      },
+      {
+        "start": 36,
+        "end": 45,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Lucknow mein aaj subah humidity kitni hogi?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "LOCATION"
+      },
+      {
+        "start": 13,
+        "end": 22,
+        "label": "DATE"
+      },
+      {
+        "start": 23,
+        "end": 31,
+        "label": "HUMIDITY"
+      }
+    ]
+  },
+  {
+    "text": "Bhubaneswar mein aaj subah humidity kitni hogi?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "label": "LOCATION"
+      },
+      {
+        "start": 17,
+        "end": 26,
+        "label": "DATE"
+      },
+      {
+        "start": 27,
+        "end": 35,
+        "label": "HUMIDITY"
+      }
+    ]
+  },
+  {
+    "text": "What will the wind speed be in Kolkata tomorrow?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 18,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 38,
+        "label": "LOCATION"
+      },
+      {
+        "start": 39,
+        "end": 47,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Chandigarh next week?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 33,
+        "label": "LOCATION"
+      },
+      {
+        "start": 34,
+        "end": 43,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the wind speed be in Mumbai next week?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 18,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 47,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How humid will Delhi be this afternoon?",
+    "entities": [
+      {
+        "start": 4,
+        "end": 9,
+        "label": "HUMIDITY"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "label": "LOCATION"
+      },
+      {
+        "start": 24,
+        "end": 38,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the visibility be in Kolkata today?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "VISIBILITY"
+      },
+      {
+        "start": 31,
+        "end": 38,
+        "label": "LOCATION"
+      },
+      {
+        "start": 39,
+        "end": 44,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will there be heavy rain in Bhubaneswar next week?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 39,
+        "label": "LOCATION"
+      },
+      {
+        "start": 40,
+        "end": 49,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How will the weather be in Hyderabad tomorrow?",
+    "entities": [
+      {
+        "start": 27,
+        "end": 36,
+        "label": "LOCATION"
+      },
+      {
+        "start": 37,
+        "end": 45,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How bad is the air quality in Kochi next week?",
+    "entities": [
+      {
+        "start": 15,
+        "end": 26,
+        "label": "AQI"
+      },
+      {
+        "start": 30,
+        "end": 35,
+        "label": "LOCATION"
+      },
+      {
+        "start": 36,
+        "end": 45,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How humid will Bhubaneswar be yesterday?",
+    "entities": [
+      {
+        "start": 4,
+        "end": 9,
+        "label": "HUMIDITY"
+      },
+      {
+        "start": 15,
+        "end": 26,
+        "label": "LOCATION"
+      },
+      {
+        "start": 30,
+        "end": 39,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Visakhapatnam at 8 AM?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 29,
+        "label": "LOCATION"
+      },
+      {
+        "start": 33,
+        "end": 37,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "What will the weather be like in Delhi today?",
+    "entities": [
+      {
+        "start": 33,
+        "end": 38,
+        "label": "LOCATION"
+      },
+      {
+        "start": 39,
+        "end": 44,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Mumbai at 6 PM?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 29,
+        "label": "LOCATION"
+      },
+      {
+        "start": 33,
+        "end": 37,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Chennai at midnight?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "label": "LOCATION"
+      },
+      {
+        "start": 27,
+        "end": 35,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "Is rain expected in Indore today?",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "label": "RAIN"
+      },
+      {
+        "start": 20,
+        "end": 26,
+        "label": "LOCATION"
+      },
+      {
+        "start": 27,
+        "end": 32,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will visibility be low in Pune yesterday?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 15,
+        "label": "VISIBILITY"
+      },
+      {
+        "start": 26,
+        "end": 30,
+        "label": "LOCATION"
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Pune ka AQI aaj shaam kitna hoga?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "LOCATION"
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "label": "AQI"
+      },
+      {
+        "start": 12,
+        "end": 21,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Guwahati mein aaj hawa tez hogi?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "LOCATION"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "label": "DATE"
+      },
+      {
+        "start": 18,
+        "end": 22,
+        "label": "WIND"
+      }
+    ]
+  },
+  {
+    "text": "Mumbai mein kal baarish hogi?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "LOCATION"
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "label": "DATE"
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "label": "RAIN"
+      }
+    ]
+  },
+  {
+    "text": "Hyderabad mein aaj shaam baarish hogi?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "LOCATION"
+      },
+      {
+        "start": 15,
+        "end": 24,
+        "label": "DATE"
+      },
+      {
+        "start": 25,
+        "end": 32,
+        "label": "RAIN"
+      }
+    ]
+  },
+  {
+    "text": "How strong will the wind be in Indore today?",
+    "entities": [
+      {
+        "start": 20,
+        "end": 24,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 43,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Chennai ka AQI aaj subah kitna hoga?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "LOCATION"
+      },
+      {
+        "start": 11,
+        "end": 14,
+        "label": "AQI"
+      },
+      {
+        "start": 15,
+        "end": 24,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will there be light rain in Pune this afternoon?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 32,
+        "label": "LOCATION"
+      },
+      {
+        "start": 33,
+        "end": 47,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "भुवनेश्वर का AQI कितना है?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "LOCATION"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "AQI"
+      }
+    ]
+  },
+  {
+    "text": "क्या मुंबई में आज शाम भारी बारिश होगी?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "LOCATION"
+      },
+      {
+        "start": 15,
+        "end": 21,
+        "label": "DATE"
+      },
+      {
+        "start": 22,
+        "end": 32,
+        "label": "RAIN_INTENSITY"
+      }
+    ]
+  },
+  {
+    "text": "What is the AQI in Ranchi next week?",
+    "entities": [
+      {
+        "start": 12,
+        "end": 15,
+        "label": "AQI"
+      },
+      {
+        "start": 19,
+        "end": 25,
+        "label": "LOCATION"
+      },
+      {
+        "start": 26,
+        "end": 35,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How strong will the wind be in Jaipur yesterday?",
+    "entities": [
+      {
+        "start": 20,
+        "end": 24,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 47,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How will the weather be in Delhi next week?",
+    "entities": [
+      {
+        "start": 27,
+        "end": 32,
+        "label": "LOCATION"
+      },
+      {
+        "start": 33,
+        "end": 42,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the UV index in Visakhapatnam tomorrow?",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "UV_INDEX"
+      },
+      {
+        "start": 24,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 46,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will there be light rain in Ranchi tomorrow?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 34,
+        "label": "LOCATION"
+      },
+      {
+        "start": 35,
+        "end": 43,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the UV index in Guwahati yesterday?",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "UV_INDEX"
+      },
+      {
+        "start": 24,
+        "end": 32,
+        "label": "LOCATION"
+      },
+      {
+        "start": 33,
+        "end": 42,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the wind speed be in Bhopal this afternoon?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 18,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 52,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Guwahati mein aaj subah hawa tez hogi?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "LOCATION"
+      },
+      {
+        "start": 14,
+        "end": 23,
+        "label": "DATE"
+      },
+      {
+        "start": 24,
+        "end": 28,
+        "label": "WIND"
+      }
+    ]
+  },
+  {
+    "text": "Patna ka AQI kal shaam kitna hoga?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "LOCATION"
+      },
+      {
+        "start": 9,
+        "end": 12,
+        "label": "AQI"
+      },
+      {
+        "start": 13,
+        "end": 22,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will there be strong wind in Lucknow tomorrow?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 25,
+        "label": "WIND_INTENSITY"
+      },
+      {
+        "start": 29,
+        "end": 36,
+        "label": "LOCATION"
+      },
+      {
+        "start": 37,
+        "end": 45,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Chennai at 10 AM?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "label": "LOCATION"
+      },
+      {
+        "start": 27,
+        "end": 32,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "Is rain expected in Jaipur yesterday?",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "label": "RAIN"
+      },
+      {
+        "start": 20,
+        "end": 26,
+        "label": "LOCATION"
+      },
+      {
+        "start": 27,
+        "end": 36,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the weather be like in Chennai today?",
+    "entities": [
+      {
+        "start": 33,
+        "end": 40,
+        "label": "LOCATION"
+      },
+      {
+        "start": 41,
+        "end": 46,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Bhubaneswar at 3 PM?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 34,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 42,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "Will there be strong wind in Hyderabad today?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 25,
+        "label": "WIND_INTENSITY"
+      },
+      {
+        "start": 29,
+        "end": 38,
+        "label": "LOCATION"
+      },
+      {
+        "start": 39,
+        "end": 44,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Mumbai at 10 AM?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "label": "LOCATION"
+      },
+      {
+        "start": 26,
+        "end": 31,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "How bad is the air quality in Bengaluru yesterday?",
+    "entities": [
+      {
+        "start": 15,
+        "end": 26,
+        "label": "AQI"
+      },
+      {
+        "start": 30,
+        "end": 39,
+        "label": "LOCATION"
+      },
+      {
+        "start": 40,
+        "end": 49,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Indore at 12 PM?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 29,
+        "label": "LOCATION"
+      },
+      {
+        "start": 33,
+        "end": 38,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "Will visibility be low in Lucknow this afternoon?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 15,
+        "label": "VISIBILITY"
+      },
+      {
+        "start": 26,
+        "end": 33,
+        "label": "LOCATION"
+      },
+      {
+        "start": 34,
+        "end": 48,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the visibility be in Guwahati today?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "VISIBILITY"
+      },
+      {
+        "start": 31,
+        "end": 39,
+        "label": "LOCATION"
+      },
+      {
+        "start": 40,
+        "end": 45,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the weather be like in Ranchi tomorrow?",
+    "entities": [
+      {
+        "start": 33,
+        "end": 39,
+        "label": "LOCATION"
+      },
+      {
+        "start": 40,
+        "end": 48,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Indore at 3 PM?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 29,
+        "label": "LOCATION"
+      },
+      {
+        "start": 33,
+        "end": 37,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "How high will the UV index be in Pune tomorrow?",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "label": "UV_INDEX"
+      },
+      {
+        "start": 33,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 46,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will there be light rain in Ranchi this afternoon?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 34,
+        "label": "LOCATION"
+      },
+      {
+        "start": 35,
+        "end": 49,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Bengaluru mein kal subah baarish hogi?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "LOCATION"
+      },
+      {
+        "start": 15,
+        "end": 24,
+        "label": "DATE"
+      },
+      {
+        "start": 25,
+        "end": 32,
+        "label": "RAIN"
+      }
+    ]
+  },
+  {
+    "text": "Will there be heavy rain in Bhopal tomorrow?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 34,
+        "label": "LOCATION"
+      },
+      {
+        "start": 35,
+        "end": 43,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Is rain expected in Bhubaneswar yesterday?",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "label": "RAIN"
+      },
+      {
+        "start": 20,
+        "end": 31,
+        "label": "LOCATION"
+      },
+      {
+        "start": 32,
+        "end": 41,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Kochi next week?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 28,
+        "label": "LOCATION"
+      },
+      {
+        "start": 29,
+        "end": 38,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Chennai this afternoon?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "label": "LOCATION"
+      },
+      {
+        "start": 24,
+        "end": 38,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How bad is the air quality in Srinagar next week?",
+    "entities": [
+      {
+        "start": 15,
+        "end": 26,
+        "label": "AQI"
+      },
+      {
+        "start": 30,
+        "end": 38,
+        "label": "LOCATION"
+      },
+      {
+        "start": 39,
+        "end": 48,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Is there a flood warning for Delhi?",
+    "entities": [
+      {
+        "start": 11,
+        "end": 16,
+        "label": "FLOOD"
+      },
+      {
+        "start": 29,
+        "end": 34,
+        "label": "LOCATION"
+      }
+    ]
+  },
+  {
+    "text": "Will there be heavy rain in Ahmedabad tomorrow?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 46,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "क्या गुवाहाटी में आज बारिश होगी?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "label": "LOCATION"
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "label": "DATE"
+      },
+      {
+        "start": 21,
+        "end": 26,
+        "label": "RAIN"
+      }
+    ]
+  },
+  {
+    "text": "What will the visibility be in Mumbai this afternoon?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "VISIBILITY"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 52,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will visibility be low in Bhopal next week?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 15,
+        "label": "VISIBILITY"
+      },
+      {
+        "start": 26,
+        "end": 32,
+        "label": "LOCATION"
+      },
+      {
+        "start": 33,
+        "end": 42,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Chandigarh at 10 AM?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 33,
+        "label": "LOCATION"
+      },
+      {
+        "start": 37,
+        "end": 42,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "What is the UV index in Jaipur next week?",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "UV_INDEX"
+      },
+      {
+        "start": 24,
+        "end": 30,
+        "label": "LOCATION"
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Chandigarh at 3 PM?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 33,
+        "label": "LOCATION"
+      },
+      {
+        "start": 37,
+        "end": 41,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "What will the wind speed be in Jaipur tomorrow?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 18,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 46,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Chennai at 9 PM?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "label": "LOCATION"
+      },
+      {
+        "start": 27,
+        "end": 31,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Lucknow at 3 PM?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "label": "LOCATION"
+      },
+      {
+        "start": 27,
+        "end": 31,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "What will the wind speed be in Chennai next week?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 18,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 38,
+        "label": "LOCATION"
+      },
+      {
+        "start": 39,
+        "end": 48,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Guwahati mein aaj shaam humidity kitni hogi?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "label": "LOCATION"
+      },
+      {
+        "start": 14,
+        "end": 23,
+        "label": "DATE"
+      },
+      {
+        "start": 24,
+        "end": 32,
+        "label": "HUMIDITY"
+      }
+    ]
+  },
+  {
+    "text": "How strong will the wind be in Jaipur next week?",
+    "entities": [
+      {
+        "start": 20,
+        "end": 24,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 47,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Is rain expected in Srinagar tomorrow?",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "label": "RAIN"
+      },
+      {
+        "start": 20,
+        "end": 28,
+        "label": "LOCATION"
+      },
+      {
+        "start": 29,
+        "end": 37,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How bad is the air quality in Delhi this afternoon?",
+    "entities": [
+      {
+        "start": 15,
+        "end": 26,
+        "label": "AQI"
+      },
+      {
+        "start": 30,
+        "end": 35,
+        "label": "LOCATION"
+      },
+      {
+        "start": 36,
+        "end": 50,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Pune ka AQI aaj subah kitna hoga?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "LOCATION"
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "label": "AQI"
+      },
+      {
+        "start": 12,
+        "end": 21,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the visibility be in Chandigarh yesterday?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "VISIBILITY"
+      },
+      {
+        "start": 31,
+        "end": 41,
+        "label": "LOCATION"
+      },
+      {
+        "start": 42,
+        "end": 51,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the AQI in Ranchi tomorrow?",
+    "entities": [
+      {
+        "start": 12,
+        "end": 15,
+        "label": "AQI"
+      },
+      {
+        "start": 19,
+        "end": 25,
+        "label": "LOCATION"
+      },
+      {
+        "start": 26,
+        "end": 34,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "क्या लखनऊ में कल सुबह हल्की बारिश होगी?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "LOCATION"
+      },
+      {
+        "start": 14,
+        "end": 21,
+        "label": "DATE"
+      },
+      {
+        "start": 22,
+        "end": 33,
+        "label": "RAIN_INTENSITY"
+      }
+    ]
+  },
+  {
+    "text": "What will the humidity be in Chennai this afternoon?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "label": "HUMIDITY"
+      },
+      {
+        "start": 29,
+        "end": 36,
+        "label": "LOCATION"
+      },
+      {
+        "start": 37,
+        "end": 51,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Guwahati at 6 AM?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 24,
+        "label": "LOCATION"
+      },
+      {
+        "start": 28,
+        "end": 32,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "क्या लखनऊ में आज हल्की बारिश होगी?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "LOCATION"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "label": "DATE"
+      },
+      {
+        "start": 17,
+        "end": 28,
+        "label": "RAIN_INTENSITY"
+      }
+    ]
+  },
+  {
+    "text": "How will the weather be in Indore today?",
+    "entities": [
+      {
+        "start": 27,
+        "end": 33,
+        "label": "LOCATION"
+      },
+      {
+        "start": 34,
+        "end": 39,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How strong will the wind be in Lucknow this afternoon?",
+    "entities": [
+      {
+        "start": 20,
+        "end": 24,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 38,
+        "label": "LOCATION"
+      },
+      {
+        "start": 39,
+        "end": 53,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will visibility be low in Ranchi this afternoon?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 15,
+        "label": "VISIBILITY"
+      },
+      {
+        "start": 26,
+        "end": 32,
+        "label": "LOCATION"
+      },
+      {
+        "start": 33,
+        "end": 47,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the humidity be in Bengaluru today?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "label": "HUMIDITY"
+      },
+      {
+        "start": 29,
+        "end": 38,
+        "label": "LOCATION"
+      },
+      {
+        "start": 39,
+        "end": 44,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the weather be like in Jaipur this afternoon?",
+    "entities": [
+      {
+        "start": 33,
+        "end": 39,
+        "label": "LOCATION"
+      },
+      {
+        "start": 40,
+        "end": 54,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "क्या अहमदाबाद में कल भारी बारिश होगी?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "label": "LOCATION"
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "label": "DATE"
+      },
+      {
+        "start": 21,
+        "end": 31,
+        "label": "RAIN_INTENSITY"
+      }
+    ]
+  },
+  {
+    "text": "How will the weather be in Chandigarh tomorrow?",
+    "entities": [
+      {
+        "start": 27,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 46,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the humidity be in Bhubaneswar this afternoon?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "label": "HUMIDITY"
+      },
+      {
+        "start": 29,
+        "end": 40,
+        "label": "LOCATION"
+      },
+      {
+        "start": 41,
+        "end": 55,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "क्या गुवाहाटी में आज भारी बारिश होगी?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "label": "LOCATION"
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "label": "DATE"
+      },
+      {
+        "start": 21,
+        "end": 31,
+        "label": "RAIN_INTENSITY"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Jaipur at 12 PM?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "label": "LOCATION"
+      },
+      {
+        "start": 26,
+        "end": 31,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "Pune ka AQI kal subah kitna hoga?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "LOCATION"
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "label": "AQI"
+      },
+      {
+        "start": 12,
+        "end": 21,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How strong will the wind be in Patna tomorrow?",
+    "entities": [
+      {
+        "start": 20,
+        "end": 24,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 36,
+        "label": "LOCATION"
+      },
+      {
+        "start": 37,
+        "end": 45,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the visibility be in Jaipur next week?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "VISIBILITY"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 47,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How bad is the air quality in Kolkata today?",
+    "entities": [
+      {
+        "start": 15,
+        "end": 26,
+        "label": "AQI"
+      },
+      {
+        "start": 30,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 43,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Is rain expected in Indore yesterday?",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "label": "RAIN"
+      },
+      {
+        "start": 20,
+        "end": 26,
+        "label": "LOCATION"
+      },
+      {
+        "start": 27,
+        "end": 36,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will there be strong wind in Chennai tomorrow?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 25,
+        "label": "WIND_INTENSITY"
+      },
+      {
+        "start": 29,
+        "end": 36,
+        "label": "LOCATION"
+      },
+      {
+        "start": 37,
+        "end": 45,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Kolkata at 3 PM?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "label": "LOCATION"
+      },
+      {
+        "start": 27,
+        "end": 31,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "क्या दिल्ली में आज बारिश होगी?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 11,
+        "label": "LOCATION"
+      },
+      {
+        "start": 16,
+        "end": 18,
+        "label": "DATE"
+      },
+      {
+        "start": 19,
+        "end": 24,
+        "label": "RAIN"
+      }
+    ]
+  },
+  {
+    "text": "Hyderabad mein kal shaam hawa tez hogi?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "LOCATION"
+      },
+      {
+        "start": 15,
+        "end": 24,
+        "label": "DATE"
+      },
+      {
+        "start": 25,
+        "end": 29,
+        "label": "WIND"
+      }
+    ]
+  },
+  {
+    "text": "Mumbai mein kal humidity kitni hogi?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "LOCATION"
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "label": "DATE"
+      },
+      {
+        "start": 16,
+        "end": 24,
+        "label": "HUMIDITY"
+      }
+    ]
+  },
+  {
+    "text": "How will the weather be in Visakhapatnam yesterday?",
+    "entities": [
+      {
+        "start": 27,
+        "end": 40,
+        "label": "LOCATION"
+      },
+      {
+        "start": 41,
+        "end": 50,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Bhubaneswar mein aaj subah baarish hogi?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "label": "LOCATION"
+      },
+      {
+        "start": 17,
+        "end": 26,
+        "label": "DATE"
+      },
+      {
+        "start": 27,
+        "end": 34,
+        "label": "RAIN"
+      }
+    ]
+  },
+  {
+    "text": "How strong will the wind be in Lucknow yesterday?",
+    "entities": [
+      {
+        "start": 20,
+        "end": 24,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 38,
+        "label": "LOCATION"
+      },
+      {
+        "start": 39,
+        "end": 48,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "क्या जयपुर में आज शाम हल्की बारिश होगी?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "LOCATION"
+      },
+      {
+        "start": 15,
+        "end": 21,
+        "label": "DATE"
+      },
+      {
+        "start": 22,
+        "end": 33,
+        "label": "RAIN_INTENSITY"
+      }
+    ]
+  },
+  {
+    "text": "चेन्नई में नमी कितनी होगी?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "LOCATION"
+      },
+      {
+        "start": 11,
+        "end": 14,
+        "label": "HUMIDITY"
+      }
+    ]
+  },
+  {
+    "text": "What will the visibility be in Hyderabad today?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "VISIBILITY"
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "label": "LOCATION"
+      },
+      {
+        "start": 41,
+        "end": 46,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will there be heavy rain in Indore tomorrow?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 34,
+        "label": "LOCATION"
+      },
+      {
+        "start": 35,
+        "end": 43,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the visibility be in Kolkata next week?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "VISIBILITY"
+      },
+      {
+        "start": 31,
+        "end": 38,
+        "label": "LOCATION"
+      },
+      {
+        "start": 39,
+        "end": 48,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Hyderabad mein aaj shaam humidity kitni hogi?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "LOCATION"
+      },
+      {
+        "start": 15,
+        "end": 24,
+        "label": "DATE"
+      },
+      {
+        "start": 25,
+        "end": 33,
+        "label": "HUMIDITY"
+      }
+    ]
+  },
+  {
+    "text": "How high will the UV index be in Visakhapatnam today?",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "label": "UV_INDEX"
+      },
+      {
+        "start": 33,
+        "end": 46,
+        "label": "LOCATION"
+      },
+      {
+        "start": 47,
+        "end": 52,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Patna mein kal shaam hawa tez hogi?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "LOCATION"
+      },
+      {
+        "start": 11,
+        "end": 20,
+        "label": "DATE"
+      },
+      {
+        "start": 21,
+        "end": 25,
+        "label": "WIND"
+      }
+    ]
+  },
+  {
+    "text": "Patna mein kal subah baarish hogi?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "LOCATION"
+      },
+      {
+        "start": 11,
+        "end": 20,
+        "label": "DATE"
+      },
+      {
+        "start": 21,
+        "end": 28,
+        "label": "RAIN"
+      }
+    ]
+  },
+  {
+    "text": "Is rain expected in Hyderabad this afternoon?",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "label": "RAIN"
+      },
+      {
+        "start": 20,
+        "end": 29,
+        "label": "LOCATION"
+      },
+      {
+        "start": 30,
+        "end": 44,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the wind speed be in Delhi today?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 18,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 36,
+        "label": "LOCATION"
+      },
+      {
+        "start": 37,
+        "end": 42,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will there be heavy rain in Mumbai tomorrow?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 34,
+        "label": "LOCATION"
+      },
+      {
+        "start": 35,
+        "end": 43,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will there be strong wind in Chandigarh yesterday?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 25,
+        "label": "WIND_INTENSITY"
+      },
+      {
+        "start": 29,
+        "end": 39,
+        "label": "LOCATION"
+      },
+      {
+        "start": 40,
+        "end": 49,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "क्या कोच्चि में आज सुबह हल्की बारिश होगी?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 11,
+        "label": "LOCATION"
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "label": "DATE"
+      },
+      {
+        "start": 24,
+        "end": 35,
+        "label": "RAIN_INTENSITY"
+      }
+    ]
+  },
+  {
+    "text": "How will the weather be in Kochi yesterday?",
+    "entities": [
+      {
+        "start": 27,
+        "end": 32,
+        "label": "LOCATION"
+      },
+      {
+        "start": 33,
+        "end": 42,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the weather be like in Indore next week?",
+    "entities": [
+      {
+        "start": 33,
+        "end": 39,
+        "label": "LOCATION"
+      },
+      {
+        "start": 40,
+        "end": 49,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "क्या बेंगलुरु में आज सुबह बारिश होगी?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "label": "LOCATION"
+      },
+      {
+        "start": 18,
+        "end": 25,
+        "label": "DATE"
+      },
+      {
+        "start": 26,
+        "end": 31,
+        "label": "RAIN"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Ahmedabad at 6 PM?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 32,
+        "label": "LOCATION"
+      },
+      {
+        "start": 36,
+        "end": 40,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "Will visibility be low in Mumbai yesterday?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 15,
+        "label": "VISIBILITY"
+      },
+      {
+        "start": 26,
+        "end": 32,
+        "label": "LOCATION"
+      },
+      {
+        "start": 33,
+        "end": 42,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Kolkata ka AQI aaj shaam kitna hoga?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "LOCATION"
+      },
+      {
+        "start": 11,
+        "end": 14,
+        "label": "AQI"
+      },
+      {
+        "start": 15,
+        "end": 24,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Bengaluru mein kal shaam baarish hogi?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "LOCATION"
+      },
+      {
+        "start": 15,
+        "end": 24,
+        "label": "DATE"
+      },
+      {
+        "start": 25,
+        "end": 32,
+        "label": "RAIN"
+      }
+    ]
+  },
+  {
+    "text": "Will there be strong wind in Bhopal yesterday?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 25,
+        "label": "WIND_INTENSITY"
+      },
+      {
+        "start": 29,
+        "end": 35,
+        "label": "LOCATION"
+      },
+      {
+        "start": 36,
+        "end": 45,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Bhubaneswar at 8 AM?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 27,
+        "label": "LOCATION"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "Will there be heavy rain in Mumbai today?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 34,
+        "label": "LOCATION"
+      },
+      {
+        "start": 35,
+        "end": 40,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the visibility be in Jaipur yesterday?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "VISIBILITY"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 47,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will there be light rain in Patna yesterday?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 33,
+        "label": "LOCATION"
+      },
+      {
+        "start": 34,
+        "end": 43,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Chennai at 8 AM?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 30,
+        "label": "LOCATION"
+      },
+      {
+        "start": 34,
+        "end": 38,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "How bad is the air quality in Delhi next week?",
+    "entities": [
+      {
+        "start": 15,
+        "end": 26,
+        "label": "AQI"
+      },
+      {
+        "start": 30,
+        "end": 35,
+        "label": "LOCATION"
+      },
+      {
+        "start": 36,
+        "end": 45,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Guwahati next week?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 31,
+        "label": "LOCATION"
+      },
+      {
+        "start": 32,
+        "end": 41,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will there be strong wind in Jaipur this afternoon?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 25,
+        "label": "WIND_INTENSITY"
+      },
+      {
+        "start": 29,
+        "end": 35,
+        "label": "LOCATION"
+      },
+      {
+        "start": 36,
+        "end": 50,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Delhi mein kal hawa tez hogi?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "LOCATION"
+      },
+      {
+        "start": 11,
+        "end": 14,
+        "label": "DATE"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "label": "WIND"
+      }
+    ]
+  },
+  {
+    "text": "What will the humidity be in Chandigarh this afternoon?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "label": "HUMIDITY"
+      },
+      {
+        "start": 29,
+        "end": 39,
+        "label": "LOCATION"
+      },
+      {
+        "start": 40,
+        "end": 54,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the visibility be in Delhi yesterday?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "VISIBILITY"
+      },
+      {
+        "start": 31,
+        "end": 36,
+        "label": "LOCATION"
+      },
+      {
+        "start": 37,
+        "end": 46,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Bengaluru next week?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 25,
+        "label": "LOCATION"
+      },
+      {
+        "start": 26,
+        "end": 35,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the visibility be in Lucknow today?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "VISIBILITY"
+      },
+      {
+        "start": 31,
+        "end": 38,
+        "label": "LOCATION"
+      },
+      {
+        "start": 39,
+        "end": 44,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will there be light rain in Chennai next week?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 35,
+        "label": "LOCATION"
+      },
+      {
+        "start": 36,
+        "end": 45,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will there be heavy rain in Hyderabad next week?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 47,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the humidity be in Kochi this afternoon?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 22,
+        "label": "HUMIDITY"
+      },
+      {
+        "start": 29,
+        "end": 34,
+        "label": "LOCATION"
+      },
+      {
+        "start": 35,
+        "end": 49,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "क्या पटना में आज भारी बारिश होगी?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "LOCATION"
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "label": "DATE"
+      },
+      {
+        "start": 17,
+        "end": 27,
+        "label": "RAIN_INTENSITY"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Bhopal next week?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "label": "LOCATION"
+      },
+      {
+        "start": 23,
+        "end": 32,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How strong will the wind be in Kochi yesterday?",
+    "entities": [
+      {
+        "start": 20,
+        "end": 24,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 36,
+        "label": "LOCATION"
+      },
+      {
+        "start": 37,
+        "end": 46,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How humid will Srinagar be today?",
+    "entities": [
+      {
+        "start": 4,
+        "end": 9,
+        "label": "HUMIDITY"
+      },
+      {
+        "start": 15,
+        "end": 23,
+        "label": "LOCATION"
+      },
+      {
+        "start": 27,
+        "end": 32,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How high will the UV index be in Pune yesterday?",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "label": "UV_INDEX"
+      },
+      {
+        "start": 33,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 47,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Is rain expected in Ranchi this afternoon?",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "label": "RAIN"
+      },
+      {
+        "start": 20,
+        "end": 26,
+        "label": "LOCATION"
+      },
+      {
+        "start": 27,
+        "end": 41,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the weather be like in Mumbai this afternoon?",
+    "entities": [
+      {
+        "start": 33,
+        "end": 39,
+        "label": "LOCATION"
+      },
+      {
+        "start": 40,
+        "end": 54,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the wind speed be in Kochi yesterday?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 18,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 36,
+        "label": "LOCATION"
+      },
+      {
+        "start": 37,
+        "end": 46,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Bhopal at 6 PM?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "label": "LOCATION"
+      },
+      {
+        "start": 26,
+        "end": 30,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "How high will the UV index be in Ranchi tomorrow?",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "label": "UV_INDEX"
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "label": "LOCATION"
+      },
+      {
+        "start": 40,
+        "end": 48,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "क्या गुवाहाटी में कल भारी बारिश होगी?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "label": "LOCATION"
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "label": "DATE"
+      },
+      {
+        "start": 21,
+        "end": 31,
+        "label": "RAIN_INTENSITY"
+      }
+    ]
+  },
+  {
+    "text": "What is the UV index in Hyderabad tomorrow?",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "UV_INDEX"
+      },
+      {
+        "start": 24,
+        "end": 33,
+        "label": "LOCATION"
+      },
+      {
+        "start": 34,
+        "end": 42,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Hyderabad at 12 PM?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 32,
+        "label": "LOCATION"
+      },
+      {
+        "start": 36,
+        "end": 41,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "Jaipur ka AQI aaj kitna hoga?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "LOCATION"
+      },
+      {
+        "start": 10,
+        "end": 13,
+        "label": "AQI"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "क्या पुणे में कल सुबह बारिश होगी?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "LOCATION"
+      },
+      {
+        "start": 14,
+        "end": 21,
+        "label": "DATE"
+      },
+      {
+        "start": 22,
+        "end": 27,
+        "label": "RAIN"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Lucknow at 3 PM?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 30,
+        "label": "LOCATION"
+      },
+      {
+        "start": 34,
+        "end": 38,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Bhubaneswar tomorrow?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 34,
+        "label": "LOCATION"
+      },
+      {
+        "start": 35,
+        "end": 43,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Visakhapatnam at midnight?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 29,
+        "label": "LOCATION"
+      },
+      {
+        "start": 33,
+        "end": 41,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "How bad is the air quality in Visakhapatnam this afternoon?",
+    "entities": [
+      {
+        "start": 15,
+        "end": 26,
+        "label": "AQI"
+      },
+      {
+        "start": 30,
+        "end": 43,
+        "label": "LOCATION"
+      },
+      {
+        "start": 44,
+        "end": 58,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How strong will the wind be in Delhi today?",
+    "entities": [
+      {
+        "start": 20,
+        "end": 24,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 36,
+        "label": "LOCATION"
+      },
+      {
+        "start": 37,
+        "end": 42,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "क्या पटना में आज सुबह बारिश होगी?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "LOCATION"
+      },
+      {
+        "start": 14,
+        "end": 21,
+        "label": "DATE"
+      },
+      {
+        "start": 22,
+        "end": 27,
+        "label": "RAIN"
+      }
+    ]
+  },
+  {
+    "text": "Will there be light rain in Bengaluru today?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 43,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What will the weather be like in Jaipur today?",
+    "entities": [
+      {
+        "start": 33,
+        "end": 39,
+        "label": "LOCATION"
+      },
+      {
+        "start": 40,
+        "end": 45,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How will the weather be in Jaipur this afternoon?",
+    "entities": [
+      {
+        "start": 27,
+        "end": 33,
+        "label": "LOCATION"
+      },
+      {
+        "start": 34,
+        "end": 48,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the UV index in Pune tomorrow?",
+    "entities": [
+      {
+        "start": 12,
+        "end": 20,
+        "label": "UV_INDEX"
+      },
+      {
+        "start": 24,
+        "end": 28,
+        "label": "LOCATION"
+      },
+      {
+        "start": 29,
+        "end": 37,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Ranchi at 6 AM?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 29,
+        "label": "LOCATION"
+      },
+      {
+        "start": 33,
+        "end": 37,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Kolkata next week?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "label": "LOCATION"
+      },
+      {
+        "start": 24,
+        "end": 33,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Hyderabad at 12 PM?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 25,
+        "label": "LOCATION"
+      },
+      {
+        "start": 29,
+        "end": 34,
+        "label": "TIME"
+      }
+    ]
+  },
+  {
+    "text": "Will there be light rain in Hyderabad next week?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 47,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will there be light rain in Ahmedabad yesterday?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "RAIN_INTENSITY"
+      },
+      {
+        "start": 28,
+        "end": 37,
+        "label": "LOCATION"
+      },
+      {
+        "start": 38,
+        "end": 47,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "क्या गुवाहाटी में आज सुबह भारी बारिश होगी?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "label": "LOCATION"
+      },
+      {
+        "start": 18,
+        "end": 25,
+        "label": "DATE"
+      },
+      {
+        "start": 26,
+        "end": 36,
+        "label": "RAIN_INTENSITY"
+      }
+    ]
+  },
+  {
+    "text": "How strong will the wind be in Chennai yesterday?",
+    "entities": [
+      {
+        "start": 20,
+        "end": 24,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 38,
+        "label": "LOCATION"
+      },
+      {
+        "start": 39,
+        "end": 48,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "How strong will the wind be in Guwahati this afternoon?",
+    "entities": [
+      {
+        "start": 20,
+        "end": 24,
+        "label": "WIND"
+      },
+      {
+        "start": 31,
+        "end": 39,
+        "label": "LOCATION"
+      },
+      {
+        "start": 40,
+        "end": 54,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "What is the weather in Pune next week?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 27,
+        "label": "LOCATION"
+      },
+      {
+        "start": 28,
+        "end": 37,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Will it rain in Bhubaneswar next week?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "RAIN"
+      },
+      {
+        "start": 16,
+        "end": 27,
+        "label": "LOCATION"
+      },
+      {
+        "start": 28,
+        "end": 37,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Pune mein kal subah humidity kitni hogi?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "LOCATION"
+      },
+      {
+        "start": 10,
+        "end": 19,
+        "label": "DATE"
+      },
+      {
+        "start": 20,
+        "end": 28,
+        "label": "HUMIDITY"
+      }
+    ]
+  }
+]

@@ -1,0 +1,112 @@
+{"text": "ਕੱਲ੍ਹ ਦਿੱਲੀ ਵਿੱਚ ਮੌਸਮ ਕਿਹੋ ਜਿਹਾ ਰਹੇਗਾ?", "language": "pa", "entities": [{"text": "ਕੱਲ੍ਹ", "label": "DATE"}, {"text": "ਦਿੱਲੀ", "label": "LOCATION"}]}
+{"text": "દિલ્હીમાં હવામાન કેવું છે?", "language": "gu", "entities": [{"text": "દિલ્હીમાં", "label": "LOCATION"}]}
+{"text": "ਅੱਜ ਦਿੱਲੀ ਦੀ ਹਵਾ ਦੀ ਗੁਣਵੱਤਾ ਕਿਹੋ ਜਿਹੀ ਹੈ?", "language": "pa", "entities": [{"text": "ਅੱਜ", "label": "DATE"}, {"text": "ਦਿੱਲੀ", "label": "LOCATION"}, {"text": "ਹਵਾ ਦੀ ਗੁਣਵੱਤਾ", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "Is there a chance of rain in Mumbai today?", "language": "en", "entities": [{"text": "Mumbai", "label": "LOCATION"}, {"text": "today", "label": "DATE"}, {"text": "rain", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "ఈ రోజు చెన్నైలో తేమ ఎంత?", "language": "te", "entities": [{"text": "ఈ రోజు", "label": "DATE"}, {"text": "చెన్నైలో", "label": "LOCATION"}, {"text": "తేమ", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "कल दिल्ली में मौसम कैसा रहेगा?", "language": "hi", "entities": [{"text": "कल", "label": "DATE"}, {"text": "दिल्ली", "label": "LOCATION"}]}
+{"text": "दिल्लीतील आर्द्रता किती आहे?", "language": "mr", "entities": [{"text": "दिल्लीतील", "label": "LOCATION"}, {"text": "आर्द्रता", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "ಈ ವಾರದ ಕೊನೆಯಲ್ಲಿ ಚೆನ್ನೈನಲ್ಲಿ ಹವಾಮಾನ ಹೇಗಿರುತ್ತದೆ?", "language": "kn", "entities": [{"text": "ಈ ವಾರದ ಕೊನೆಯಲ್ಲಿ", "label": "DATE"}, {"text": "ಚೆನ್ನೈನಲ್ಲಿ", "label": "LOCATION"}]}
+{"text": "இன்று சென்னையில் ஈரப்பதம் எவ்வளவு?", "language": "ta", "entities": [{"text": "இன்று", "label": "DATE"}, {"text": "சென்னை", "label": "LOCATION"}, {"text": "ஈரப்பதம்", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "ಇಂದು ದೆಹಲಿಯ ಗಾಳಿಯ ಗುಣಮಟ್ಟ ಹೇಗಿದೆ?", "language": "kn", "entities": [{"text": "ಇಂದು", "label": "DATE"}, {"text": "ದೆಹಲಿಯ", "label": "LOCATION"}, {"text": "ಗಾಳಿಯ ಗುಣಮಟ್ಟ", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "How is the weather in Mumbai today?", "language": "en", "entities": [{"text": "Mumbai", "label": "LOCATION"}, {"text": "today", "label": "DATE"}]}
+{"text": "ਦਿੱਲੀ ਵਿੱਚ ਨਮੀ ਕਿੰਨੀ ਹੈ?", "language": "pa", "entities": [{"text": "ਦਿੱਲੀ", "label": "LOCATION"}, {"text": "ਨਮੀ", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "ಇಂದು ದೆಹಲಿಯಲ್ಲಿ ತಾಪಮಾನ ಎಷ್ಟು?", "language": "kn", "entities": [{"text": "ಇಂದು", "label": "DATE"}, {"text": "ದೆಹಲಿಯಲ್ಲಿ", "label": "LOCATION"}]}
+{"text": "ਅੱਜ ਮੁੰਬਈ ਵਿੱਚ ਮੌਸਮ ਕਿਹੋ ਜਿਹਾ ਹੈ?", "language": "pa", "entities": [{"text": "ਅੱਜ", "label": "DATE"}, {"text": "ਮੁੰਬਈ", "label": "LOCATION"}]}
+{"text": "മുംബൈയിലെ വായുവിന്റെ ഗുണനിലവാരം എങ്ങനെയാണ്?", "language": "ml", "entities": [{"text": "മുംബൈയിലെ", "label": "LOCATION"}, {"text": "വായുവിന്റെ ഗുണനിലവാരം", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "ನಾಳೆ ದೆಹಲಿಯಲ್ಲಿ ಹವಾಮಾನ ಹೇಗಿರುತ್ತದೆ?", "language": "kn", "entities": [{"text": "ನಾಳೆ", "label": "DATE"}, {"text": "ದೆಹಲಿಯಲ್ಲಿ", "label": "LOCATION"}]}
+{"text": "ഈ വാരാന്ത്യത്തിൽ ചെന്നൈയിലെ കാലാവസ്ഥ എങ്ങനെയായിരിക്കും?", "language": "ml", "entities": [{"text": "ഈ വാരാന്ത്യത്തിൽ", "label": "DATE"}, {"text": "ചെന്നൈയിലെ", "label": "LOCATION"}]}
+{"text": "এই সপ্তাহের শেষে চেন্নাইয়ের আবহাওয়া কেমন থাকবে?", "language": "bn", "entities": [{"text": "এই সপ্তাহের শেষে", "label": "DATE"}, {"text": "চেন্নাই", "label": "LOCATION"}]}
+{"text": "आज दिल्ली में तापमान कितना है?", "language": "hi", "entities": [{"text": "आज", "label": "DATE"}, {"text": "दिल्ली", "label": "LOCATION"}]}
+{"text": "ఈ రోజు ముంబైలో వర్షం పడే అవకాశం ఉందా?", "language": "te", "entities": [{"text": "ఈ రోజు", "label": "DATE"}, {"text": "ముంబైలో", "label": "LOCATION"}, {"text": "వర్షం", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "आज चेन्नई में हवा में नमी कितनी है?", "language": "hi", "entities": [{"text": "आज", "label": "DATE"}, {"text": "चेन्नई", "label": "LOCATION"}, {"text": "नमी", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "આજે દિલ્હીમાં તાપમાન કેટલું છે?", "language": "gu", "entities": [{"text": "આજે", "label": "DATE"}, {"text": "દિલ્હીમાં", "label": "LOCATION"}]}
+{"text": "ਇਸ ਹਫ਼ਤੇ ਦੇ ਅੰਤ ਵਿੱਚ ਚੇਨਈ ਵਿੱਚ ਮੌਸਮ ਕਿਹੋ ਜਿਹਾ ਰਹੇਗਾ?", "language": "pa", "entities": [{"text": "ਇਸ ਹਫ਼ਤੇ ਦੇ ਅੰਤ ਵਿੱਚ", "label": "DATE"}, {"text": "ਚੇਨਈ", "label": "LOCATION"}]}
+{"text": "আগামীকাল দিল্লিতে কি বৃষ্টি হবে?", "language": "bn", "entities": [{"text": "আগামীকাল", "label": "DATE"}, {"text": "দিল্লি", "label": "LOCATION"}, {"text": "বৃষ্টি", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "કાલે દિલ્હીમાં વરસાદ પડશે?", "language": "gu", "entities": [{"text": "કાલે", "label": "DATE"}, {"text": "દિલ્હીમાં", "label": "LOCATION"}, {"text": "વરસાદ", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "இன்று டெல்லியில் காற்று எவ்வளவு வேகமாக உள்ளது?", "language": "ta", "entities": [{"text": "இன்று", "label": "DATE"}, {"text": "டெல்லி", "label": "LOCATION"}, {"text": "காற்று", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "মুম্বাইয়ে বাতাসের গতি কত?", "language": "bn", "entities": [{"text": "মুম্বাই", "label": "LOCATION"}, {"text": "বাতাস", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "আগামীকাল দিল্লির আবহাওয়া কেমন থাকবে?", "language": "bn", "entities": [{"text": "আগামীকাল", "label": "DATE"}, {"text": "দিল্লি", "label": "LOCATION"}]}
+{"text": "ഇന്ന് ഡൽഹിയിൽ കാറ്റിന്റെ വേഗം എത്രയാണ്?", "language": "ml", "entities": [{"text": "ഇന്ന്", "label": "DATE"}, {"text": "ഡൽഹിയിൽ", "label": "LOCATION"}, {"text": "കാറ്റ്", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "நாளை டெல்லியில் மழை பெய்யுமா?", "language": "ta", "entities": [{"text": "நாளை", "label": "DATE"}, {"text": "டெல்லி", "label": "LOCATION"}, {"text": "மழை", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "আজ দিল্লির তাপমাত্রা কত?", "language": "bn", "entities": [{"text": "আজ", "label": "DATE"}, {"text": "দিল্লি", "label": "LOCATION"}]}
+{"text": "നാളെ ഡൽഹിയിൽ മഴ പെയ്യുമോ?", "language": "ml", "entities": [{"text": "നാളെ", "label": "DATE"}, {"text": "ഡൽഹിയിൽ", "label": "LOCATION"}, {"text": "മഴ", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "आज दिल्लीतील तापमान किती आहे?", "language": "mr", "entities": [{"text": "आज", "label": "DATE"}, {"text": "दिल्लीतील", "label": "LOCATION"}]}
+{"text": "ದೆಹಲಿಯಲ್ಲಿ ಹವಾಮಾನ ಹೇಗಿದೆ?", "language": "kn", "entities": [{"text": "ದೆಹಲಿಯಲ್ಲಿ", "label": "LOCATION"}]}
+{"text": "ఢిల్లీలో వాతావరణం ఎలా ఉంది?", "language": "te", "entities": [{"text": "ఢిల్లీ", "label": "LOCATION"}]}
+{"text": "இன்று மும்பையில் மழைக்கு வாய்ப்பு உள்ளதா?", "language": "ta", "entities": [{"text": "இன்று", "label": "DATE"}, {"text": "மும்பை", "label": "LOCATION"}, {"text": "மழை", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "ഇന്ന് മുംബൈയിൽ മഴയ്ക്ക് സാധ്യതയുണ്ടോ?", "language": "ml", "entities": [{"text": "ഇന്ന്", "label": "DATE"}, {"text": "മുംബൈയിൽ", "label": "LOCATION"}, {"text": "മഴ", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "നാളെ ഡൽഹിയിലെ കാലാവസ്ഥ എങ്ങനെയായിരിക്കും?", "language": "ml", "entities": [{"text": "നാളെ", "label": "DATE"}, {"text": "ഡൽഹിയിലെ", "label": "LOCATION"}]}
+{"text": "What will the weather be like in Delhi tomorrow?", "language": "en", "entities": [{"text": "Delhi", "label": "LOCATION"}, {"text": "tomorrow", "label": "DATE"}]}
+{"text": "ਅੱਜ ਦਿੱਲੀ ਵਿੱਚ ਹਵਾ ਕਿੰਨੀ ਤੇਜ਼ ਹੈ?", "language": "pa", "entities": [{"text": "ਅੱਜ", "label": "DATE"}, {"text": "ਦਿੱਲੀ", "label": "LOCATION"}, {"text": "ਹਵਾ", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "മുംബൈയിലെ കാറ്റിന്റെ വേഗം എത്രയാണ്?", "language": "ml", "entities": [{"text": "മുംബൈയിലെ", "label": "LOCATION"}, {"text": "കാറ്റ്", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "ఈ రోజు ఢిల్లీలో గాలి ఎంత వేగంగా ఉంది?", "language": "te", "entities": [{"text": "ఈ రోజు", "label": "DATE"}, {"text": "ఢిల్లీలో", "label": "LOCATION"}, {"text": "గాలి", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "दिल्ली में मौसम कैसा है?", "language": "hi", "entities": [{"text": "दिल्ली", "label": "LOCATION"}]}
+{"text": "മുംബൈയിൽ ഇപ്പോൾ എത്ര ചൂടാണ്?", "language": "ml", "entities": [{"text": "മുംബൈയിൽ", "label": "LOCATION"}, {"text": "ഇപ്പോൾ", "label": "DATE"}]}
+{"text": "ఈ రోజు ఢిల్లీలో ఉష్ణోగ్రత ఎంత?", "language": "te", "entities": [{"text": "ఈ రోజు", "label": "DATE"}, {"text": "ఢిల్లీలో", "label": "LOCATION"}]}
+{"text": "ಇಂದು ಚೆನ್ನೈನಲ್ಲಿ ತೇವಾಂಶ ಎಷ್ಟು?", "language": "kn", "entities": [{"text": "ಇಂದು", "label": "DATE"}, {"text": "ಚೆನ್ನೈನಲ್ಲಿ", "label": "LOCATION"}, {"text": "ತೇವಾಂಶ", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "ముంబైలో ఇప్పుడు ఎంత వేడిగా ఉంది?", "language": "te", "entities": [{"text": "ముంబైలో", "label": "LOCATION"}, {"text": "ఇప్పుడు", "label": "DATE"}]}
+{"text": "उद्या दिल्लीमध्ये पाऊस पडेल का?", "language": "mr", "entities": [{"text": "उद्या", "label": "DATE"}, {"text": "दिल्लीमध्ये", "label": "LOCATION"}, {"text": "पाऊस", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "उद्या दिल्लीतील हवामान कसे असेल?", "language": "mr", "entities": [{"text": "उद्या", "label": "DATE"}, {"text": "दिल्लीतील", "label": "LOCATION"}]}
+{"text": "ഇന്ന് ഡൽഹിയിലെ താപനില എത്രയാണ്?", "language": "ml", "entities": [{"text": "ഇന്ന്", "label": "DATE"}, {"text": "ഡൽഹിയിലെ", "label": "LOCATION"}]}
+{"text": "આ અઠવાડિયાના અંતે ચેન્નાઈમાં હવામાન કેવું રહેશે?", "language": "gu", "entities": [{"text": "આ અઠવાડિયાના અંતે", "label": "DATE"}, {"text": "ચેન્નાઈમાં", "label": "LOCATION"}]}
+{"text": "ముంబైలో గాలి వేగం ఎంత?", "language": "te", "entities": [{"text": "ముంబైలో", "label": "LOCATION"}, {"text": "గాలి", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "দিল্লিতে আর্দ্রতা কত?", "language": "bn", "entities": [{"text": "দিল্লি", "label": "LOCATION"}, {"text": "আর্দ্রতা", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "मुंबईतील वाऱ्याचा वेग किती आहे?", "language": "mr", "entities": [{"text": "मुंबईतील", "label": "LOCATION"}, {"text": "वारा", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "আজ দিল্লির বায়ুর মান কেমন?", "language": "bn", "entities": [{"text": "আজ", "label": "DATE"}, {"text": "দিল্লি", "label": "LOCATION"}, {"text": "বায়ুর মান", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "আজ দিল্লিতে বাতাস কত জোরে বইছে?", "language": "bn", "entities": [{"text": "আজ", "label": "DATE"}, {"text": "দিল্লি", "label": "LOCATION"}, {"text": "বাতাস", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "What is the temperature in Delhi today?", "language": "en", "entities": [{"text": "Delhi", "label": "LOCATION"}, {"text": "today", "label": "DATE"}]}
+{"text": "মুম্বাইয়ের বায়ুর মান কেমন?", "language": "bn", "entities": [{"text": "মুম্বাই", "label": "LOCATION"}, {"text": "বায়ুর মান", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "ಇಂದು ಮುಂಬೈನಲ್ಲಿ ಹವಾಮಾನ ಹೇಗಿದೆ?", "language": "kn", "entities": [{"text": "ಇಂದು", "label": "DATE"}, {"text": "ಮುಂಬೈನಲ್ಲಿ", "label": "LOCATION"}]}
+{"text": "ఈ వారాంతంలో చెన్నైలో వాతావరణం ఎలా ఉంటుంది?", "language": "te", "entities": [{"text": "ఈ వారాంతంలో", "label": "DATE"}, {"text": "చెన్నైలో", "label": "LOCATION"}]}
+{"text": "આજે મુંબઈમાં વરસાદની શક્યતા છે?", "language": "gu", "entities": [{"text": "આજે", "label": "DATE"}, {"text": "મુંબઈમાં", "label": "LOCATION"}, {"text": "વરસાદ", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "इस सप्ताह के अंत में चेन्नई का मौसम कैसा रहेगा?", "language": "hi", "entities": [{"text": "इस सप्ताह के अंत में", "label": "DATE"}, {"text": "चेन्नई", "label": "LOCATION"}]}
+{"text": "டெல்லியில் வானிலை எப்படி உள்ளது?", "language": "ta", "entities": [{"text": "டெல்லி", "label": "LOCATION"}]}
+{"text": "ਅੱਜ ਚੇਨਈ ਵਿੱਚ ਨਮੀ ਕਿੰਨੀ ਹੈ?", "language": "pa", "entities": [{"text": "ਅੱਜ", "label": "DATE"}, {"text": "ਚੇਨਈ", "label": "LOCATION"}, {"text": "ਨਮੀ", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "આજે દિલ્હીમાં પવન કેટલો ઝડપી છે?", "language": "gu", "entities": [{"text": "આજે", "label": "DATE"}, {"text": "દિલ્હીમાં", "label": "LOCATION"}, {"text": "પવન", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "மும்பையில் இப்போது எவ்வளவு வெப்பமாக உள்ளது?", "language": "ta", "entities": [{"text": "மும்பை", "label": "LOCATION"}, {"text": "இப்போது", "label": "DATE"}]}
+{"text": "ಇಂದು ಮುಂಬೈನಲ್ಲಿ ಮಳೆಯ ಸಾಧ್ಯತೆ ಇದೆಯೇ?", "language": "kn", "entities": [{"text": "ಇಂದು", "label": "DATE"}, {"text": "ಮುಂಬೈನಲ್ಲಿ", "label": "LOCATION"}, {"text": "ಮಳೆ", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "आज दिल्लीतील हवेची गुणवत्ता कशी आहे?", "language": "mr", "entities": [{"text": "आज", "label": "DATE"}, {"text": "दिल्लीतील", "label": "LOCATION"}, {"text": "हवेची गुणवत्ता", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "ನಾಳೆ ದೆಹಲಿಯಲ್ಲಿ ಮಳೆ ಬೀಳುತ್ತದೆಯೇ?", "language": "kn", "entities": [{"text": "ನಾಳೆ", "label": "DATE"}, {"text": "ದೆಹಲಿಯಲ್ಲಿ", "label": "LOCATION"}, {"text": "ಮಳೆ", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "ਮੁੰਬਈ ਵਿੱਚ ਹੁਣ ਕਿੰਨੀ ਗਰਮੀ ਹੈ?", "language": "pa", "entities": [{"text": "ਮੁੰਬਈ", "label": "LOCATION"}, {"text": "ਹੁਣ", "label": "DATE"}]}
+{"text": "કાલે દિલ્હીમાં હવામાન કેવું રહેશે?", "language": "gu", "entities": [{"text": "કાલે", "label": "DATE"}, {"text": "દિલ્હીમાં", "label": "LOCATION"}]}
+{"text": "મુંબઈમાં પવનની ઝડપ કેટલી છે?", "language": "gu", "entities": [{"text": "મુંબઈમાં", "label": "LOCATION"}, {"text": "પવન", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "ഇന്ന് മുംബൈയിലെ കാലാവസ്ഥ എങ്ങനെയാണ്?", "language": "ml", "entities": [{"text": "ഇന്ന്", "label": "DATE"}, {"text": "മുംബൈയിലെ", "label": "LOCATION"}]}
+{"text": "આજે મુંબઈમાં હવામાન કેવું છે?", "language": "gu", "entities": [{"text": "આજે", "label": "DATE"}, {"text": "મુંબઈમાં", "label": "LOCATION"}]}
+{"text": "ഇന്ന് ചെന്നൈയിലെ ഈർപ്പം എത്രയാണ്?", "language": "ml", "entities": [{"text": "ഇന്ന്", "label": "DATE"}, {"text": "ചെന്നൈയിലെ", "label": "LOCATION"}, {"text": "ഈർപ്പം", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "ਦਿੱਲੀ ਵਿੱਚ ਮੌਸਮ ਕਿਹੋ ਜਿਹਾ ਹੈ?", "language": "pa", "entities": [{"text": "ਦਿੱਲੀ", "label": "LOCATION"}]}
+{"text": "દિલ્હીમાં ભેજ કેટલો છે?", "language": "gu", "entities": [{"text": "દિલ્હીમાં", "label": "LOCATION"}, {"text": "ભેજ", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "ਅੱਜ ਦਿੱਲੀ ਵਿੱਚ ਤਾਪਮਾਨ ਕਿੰਨਾ ਹੈ?", "language": "pa", "entities": [{"text": "ਅੱਜ", "label": "DATE"}, {"text": "ਦਿੱਲੀ", "label": "LOCATION"}]}
+{"text": "आज दिल्ली में हवा कितनी तेज है?", "language": "hi", "entities": [{"text": "आज", "label": "DATE"}, {"text": "दिल्ली", "label": "LOCATION"}, {"text": "हवा", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "या आठवड्याच्या शेवटी चेन्नईतील हवामान कसे असेल?", "language": "mr", "entities": [{"text": "या आठवड्याच्या शेवटी", "label": "DATE"}, {"text": "चेन्नईतील", "label": "LOCATION"}]}
+{"text": "இன்று டெல்லியில் வெப்பநிலை என்ன?", "language": "ta", "entities": [{"text": "இன்று", "label": "DATE"}, {"text": "டெல்லி", "label": "LOCATION"}]}
+{"text": "आज मुंबईत पावसाची शक्यता आहे का?", "language": "mr", "entities": [{"text": "आज", "label": "DATE"}, {"text": "मुंबईत", "label": "LOCATION"}, {"text": "पाऊस", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "आज दिल्लीमध्ये वारा किती वेगाने वाहत आहे?", "language": "mr", "entities": [{"text": "आज", "label": "DATE"}, {"text": "दिल्लीमध्ये", "label": "LOCATION"}, {"text": "वारा", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "আজ মুম্বাইয়ে বৃষ্টির সম্ভাবনা আছে কি?", "language": "bn", "entities": [{"text": "আজ", "label": "DATE"}, {"text": "মুম্বাই", "label": "LOCATION"}, {"text": "বৃষ্টি", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "ਮੁੰਬਈ ਵਿੱਚ ਹਵਾ ਦੀ ਰਫ਼ਤਾਰ ਕਿੰਨੀ ਹੈ?", "language": "pa", "entities": [{"text": "ਮੁੰਬਈ", "label": "LOCATION"}, {"text": "ਹਵਾ", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "How strong is the wind in Delhi today?", "language": "en", "entities": [{"text": "Delhi", "label": "LOCATION"}, {"text": "today", "label": "DATE"}, {"text": "wind", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "આજે દિલ્હીની હવાની ગુણવત્તા કેવી છે?", "language": "gu", "entities": [{"text": "આજે", "label": "DATE"}, {"text": "દિલ્હીની", "label": "LOCATION"}, {"text": "હવાની ગુણવત્તા", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "आज मुंबई में मौसम कैसा है?", "language": "hi", "entities": [{"text": "आज", "label": "DATE"}, {"text": "मुंबई", "label": "LOCATION"}]}
+{"text": "ఈ రోజు ఢిల్లీలో గాలి నాణ్యత ఎలా ఉంది?", "language": "te", "entities": [{"text": "ఈ రోజు", "label": "DATE"}, {"text": "ఢిల్లీలో", "label": "LOCATION"}, {"text": "గాలి నాణ్యత", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "రేపు ఢిల్లీలో వాతావరణం ఎలా ఉంటుంది?", "language": "te", "entities": [{"text": "రేపు", "label": "DATE"}, {"text": "ఢిల్లీలో", "label": "LOCATION"}]}
+{"text": "How hot is it in Mumbai right now?", "language": "en", "entities": [{"text": "Mumbai", "label": "LOCATION"}, {"text": "right now", "label": "DATE"}]}
+{"text": "মুম্বাইয়ে এখন কত গরম?", "language": "bn", "entities": [{"text": "মুম্বাই", "label": "LOCATION"}, {"text": "এখন", "label": "DATE"}]}
+{"text": "ഇന്ന് ഡൽഹിയിലെ വായുവിന്റെ ഗുണനിലവാരം എങ്ങനെയാണ്?", "language": "ml", "entities": [{"text": "ഇന്ന്", "label": "DATE"}, {"text": "ഡൽഹിയിലെ", "label": "LOCATION"}, {"text": "വായുവിന്റെ ഗുണനിലവാരം", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "நாளை டெல்லியின் வானிலை எப்படி இருக்கும்?", "language": "ta", "entities": [{"text": "நாளை", "label": "DATE"}, {"text": "டெல்லி", "label": "LOCATION"}]}
+{"text": "இந்த வார இறுதியில் சென்னையின் வானிலை எப்படி இருக்கும்?", "language": "ta", "entities": [{"text": "இந்த வார இறுதியில்", "label": "DATE"}, {"text": "சென்னை", "label": "LOCATION"}]}
+{"text": "What is the air quality in Delhi today?", "language": "en", "entities": [{"text": "Delhi", "label": "LOCATION"}, {"text": "today", "label": "DATE"}, {"text": "air quality", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "டெல்லியில் ஈரப்பதம் எவ்வளவு?", "language": "ta", "entities": [{"text": "டெல்லி", "label": "LOCATION"}, {"text": "ஈரப்பதம்", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "What is the wind speed in Mumbai?", "language": "en", "entities": [{"text": "Mumbai", "label": "LOCATION"}, {"text": "wind", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "How is the air quality in Mumbai?", "language": "en", "entities": [{"text": "Mumbai", "label": "LOCATION"}, {"text": "air quality", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "ದೆಹಲಿಯಲ್ಲಿ ತೇವಾಂಶ ಎಷ್ಟು?", "language": "kn", "entities": [{"text": "ದೆಹಲಿಯಲ್ಲಿ", "label": "LOCATION"}, {"text": "ತೇವಾಂಶ", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "ಮುಂಬೈನಲ್ಲಿ ಗಾಳಿಯ ವೇಗ ಎಷ್ಟು?", "language": "kn", "entities": [{"text": "ಮುಂಬೈನಲ್ಲಿ", "label": "LOCATION"}, {"text": "ಗಾಳಿ", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "मुंबई में वायु गुणवत्ता कैसी है?", "language": "hi", "entities": [{"text": "मुंबई", "label": "LOCATION"}, {"text": "वायु गुणवत्ता", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "मुंबई में अभी कितनी गर्मी है?", "language": "hi", "entities": [{"text": "मुंबई", "label": "LOCATION"}, {"text": "अभी", "label": "DATE"}]}
+{"text": "ഡൽഹിയിലെ കാലാവസ്ഥ എങ്ങനെയാണ്?", "language": "ml", "entities": [{"text": "ഡൽഹിയിലെ", "label": "LOCATION"}]}
+{"text": "இன்று மும்பையின் வானிலை எப்படி உள்ளது?", "language": "ta", "entities": [{"text": "இன்று", "label": "DATE"}, {"text": "மும்பை", "label": "LOCATION"}]}
+{"text": "இன்று டெல்லியின் காற்றின் தரம் எப்படி உள்ளது?", "language": "ta", "entities": [{"text": "இன்று", "label": "DATE"}, {"text": "டெல்லி", "label": "LOCATION"}, {"text": "காற்றின் தரம்", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "ഡൽഹിയിലെ ഈർപ്പം എത്രയാണ്?", "language": "ml", "entities": [{"text": "ഡൽഹിയിലെ", "label": "LOCATION"}, {"text": "ഈർപ്പം", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "दिल्ली में नमी कितनी है?", "language": "hi", "entities": [{"text": "दिल्ली", "label": "LOCATION"}, {"text": "नमी", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "ಮುಂಬೈನ ಗಾಳಿಯ ಗುಣಮಟ್ಟ ಹೇಗಿದೆ?", "language": "kn", "entities": [{"text": "ಮುಂಬೈನ", "label": "LOCATION"}, {"text": "ಗಾಳಿಯ ಗುಣಮಟ್ಟ", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "મુંબઈની હવાની ગુણવત્તા કેવી છે?", "language": "gu", "entities": [{"text": "મુંબઈની", "label": "LOCATION"}, {"text": "હવાની ગુણવત્તા", "label": "WEATHER_ATTRIBUTE"}]}
+{"text": "What is the weather in Delhi?", "language": "en", "entities": [{"text": "Delhi", "label": "LOCATION"}]}
+{"text": "ಮುಂಬೈನಲ್ಲಿ ಈಗ ಎಷ್ಟು ಬಿಸಿಯಾಗಿದೆ?", "language": "kn", "entities": [{"text": "ಮುಂಬೈನಲ್ಲಿ", "label": "LOCATION"}, {"text": "ಈಗ", "label": "DATE"}]}

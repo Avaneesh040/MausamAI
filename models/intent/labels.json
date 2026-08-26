@@ -1,0 +1,26 @@
+{
+  "label2id": {
+    "air_quality": 0,
+    "humidity": 1,
+    "rain": 2,
+    "sunrise_sunset": 3,
+    "temperature": 4,
+    "weather_alert": 5,
+    "weather_comparison": 6,
+    "weather_current": 7,
+    "weather_forecast": 8,
+    "wind": 9
+  },
+  "id2label": {
+    "0": "air_quality",
+    "1": "humidity",
+    "2": "rain",
+    "3": "sunrise_sunset",
+    "4": "temperature",
+    "5": "weather_alert",
+    "6": "weather_comparison",
+    "7": "weather_current",
+    "8": "weather_forecast",
+    "9": "wind"
+  }
+}

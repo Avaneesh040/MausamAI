@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# Large ML model files
+models/**/checkpoint-*/
+models/**/optimizer.pt
+models/**/*.safetensors

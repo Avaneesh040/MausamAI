@@ -1,0 +1,501 @@
+﻿text,label,language
+ಹೈದರಾಬಾದ್ನಲ್ಲಿ ಗಾಳಿಯ ಗುಣಮಟ್ಟ ಹೇಗಿದೆ?,air_quality,kn
+क्या कल दिल्ली में बारिश होगी?,rain,hi
+દિલ્હી અને બેંગલુરુમાંથી કયું વધુ ઠંડું છે?,weather_comparison,gu
+ನಾಳೆ ಕೊಲ್ಕತ್ತಾನಲ್ಲಿ ತಾಪಮಾನ ಎಷ್ಟು ಇರುತ್ತದೆ?,temperature,kn
+హైదరాబాద్ AQI ఎంత?,air_quality,te
+भुवनेश्वर में मौसम की कोई चेतावनी है?,weather_alert,hi
+ପୁଣେର ପାଗ ବିଷୟରେ କୁହନ୍ତୁ।,weather_current,or
+బెంగళూరులో సూర్యోదయం ఎప్పుడు?,sunrise_sunset,te
+ਹੈਦਰਾਬਾਦ ਵਿੱਚ ਸੂਰਜ ਕਿੰਨੇ ਵਜੇ ਡੁੱਬਦਾ ਹੈ?,sunrise_sunset,pa
+"பெங்களூரு அல்லது சென்னை, எது குளிராக உள்ளது?",weather_comparison,ta
+చెన్నైలో గాలి నాణ్యత ఎలా ఉంది?,air_quality,te
+ಬೆಂಗಳೂರುನಲ್ಲಿ ಹವಾಮಾನ ಎಚ್ಚರಿಕೆ ಇದೆಯೇ?,weather_alert,kn
+ਦਿੱਲੀ ਵਿੱਚ ਕਿੰਨੀ ਨਮੀ ਹੈ?,humidity,pa
+ହାଇଦ୍ରାବାଦର ପାଗ ପୂର୍ବାନୁମାନ କଣ?,weather_forecast,or
+କୋଲକାତାରେ ସୂର୍ଯ୍ୟୋଦୟ କେତେବେଳେ?,sunrise_sunset,or
+પુણેમાં પવન કેટલો ઝડપી છે?,wind,gu
+આજે કોલકાતામાં ભેજ કેટલો રહેશે?,humidity,gu
+ମୁମ୍ବାଇର AQI କେତେ?,air_quality,or
+পুনে এর AQI কত?,air_quality,bn
+ଆସନ୍ତାକାଲି ପୁଣେର ତାପମାତ୍ରା କେତେ ରହିବ?,temperature,or
+ভুবনেশ্বর এ সূর্যোদয় কখন?,sunrise_sunset,bn
+ಕೊಲ್ಕತ್ತಾನಲ್ಲಿ ಇಂದು ಹವಾಮಾನ ಹೇಗಿದೆ?,weather_current,kn
+ਕੋਲਕਾਤਾ ਵਿੱਚ ਕਿੰਨੀ ਨਮੀ ਹੈ?,humidity,pa
+ଚେନ୍ନାଇରେ ଆଜି ପାଗ କେମିତି ଅଛି?,weather_current,or
+இந்த வார இறுதியில் மும்பைவில் வானிலை எப்படி இருக்கும்?,weather_forecast,ta
+ஹைதராபாத்வில் காற்றின் வேகம் எவ்வளவு?,wind,ta
+ହାଇଦ୍ରାବାଦରେ କୌଣସି ପାଗ ସତର୍କତା ଅଛି କି?,weather_alert,or
+क्या कल कोलकाता में बारिश होगी?,rain,hi
+What time is sunrise in Mumbai?,sunrise_sunset,en
+புவனேஸ்வர்வில் இன்று வானிலை எப்படி இருக்கிறது?,weather_current,ta
+Are there any severe weather warnings in Mumbai?,weather_alert,en
+কলকাতা এবং মুম্বাই এর আবহাওয়ার তুলনা করুন।,weather_comparison,bn
+આજે ચેન્નાઈમાં હવામાન કેવું છે?,weather_current,gu
+"பெங்களூரு அல்லது சென்னை, எது குளிராக உள்ளது?",weather_comparison,ta
+ஹைதராபாத் மற்றும் டெல்லி வானிலையை ஒப்பிடுங்கள்.,weather_comparison,ta
+ನಾಳೆ ಹೈದರಾಬಾದ್ನಲ್ಲಿ ಹವಾಮಾನ ಹೇಗಿರುತ್ತದೆ?,weather_forecast,kn
+"Which city is colder, Kolkata or Delhi?",weather_comparison,en
+क्या कल कोलकाता में बारिश होगी?,rain,hi
+Tell me the temperature in Delhi.,temperature,en
+When is sunset in Pune?,sunrise_sunset,en
+டெல்லி வானிலை முன்னறிவிப்பு என்ன?,weather_forecast,ta
+ఢిల్లీలో ఎంత వేడిగా ఉంది?,temperature,te
+What is the weather forecast for Delhi?,weather_forecast,en
+ಭುವನೇಶ್ವರನಲ್ಲಿ ಎಷ್ಟು ಬಿಸಿಯಾಗಿದೆ?,temperature,kn
+ఈ వారాంతంలో చెన్నైలో వాతావరణం ఎలా ఉంటుంది?,weather_forecast,te
+કોલકાતાનો AQI કેટલો છે?,air_quality,gu
+દિલ્હીમાં આજે હવામાન કેવું છે?,weather_current,gu
+ਅੱਜ ਦਿੱਲੀ ਦਾ ਮੌਸਮ ਕਿਹੋ ਜਿਹਾ ਹੈ?,weather_current,pa
+उद्या हैदराबाद मध्ये पाऊस पडेल का?,rain,mr
+How hot is it in Bengaluru?,temperature,en
+ਕੀ ਅੱਜ ਹੈਦਰਾਬਾਦ ਵਿੱਚ ਮੀਂਹ ਪਵੇਗਾ?,rain,pa
+उद्या कोलकाता मध्ये तापमान किती असेल?,temperature,mr
+ଦିଲ୍ଲୀରେ ପବନ କେତେ ଜୋରରେ ବହୁଛି?,wind,or
+मुंबई में अभी मौसम कैसा है?,weather_current,hi
+इस सप्ताह के अंत में बेंगलुरु में मौसम कैसा रहेगा?,weather_forecast,hi
+What is the chance of rain in Kolkata?,rain,en
+कल चेन्नई में तापमान कितना रहेगा?,temperature,hi
+કાલે મુંબઈમાં વરસાદ પડશે?,rain,gu
+आज पुणे में मौसम कैसा रहेगा?,weather_current,hi
+What is the wind speed in Chennai?,wind,en
+How humid is it in Chennai?,humidity,en
+ਇਸ ਹਫ਼ਤੇ ਦੇ ਅੰਤ ਵਿੱਚ ਕੋਲਕਾਤਾ ਵਿੱਚ ਮੌਸਮ ਕਿਹੋ ਜਿਹਾ ਰਹੇਗਾ?,weather_forecast,pa
+ਇਸ ਹਫ਼ਤੇ ਦੇ ਅੰਤ ਵਿੱਚ ਬੈਂਗਲੁਰੂ ਵਿੱਚ ਮੌਸਮ ਕਿਹੋ ਜਿਹਾ ਰਹੇਗਾ?,weather_forecast,pa
+நாளை கொல்கத்தாவில் மழை பெய்யுமா?,rain,ta
+చెన్నైలో గాలి ఎంత వేగంగా వీస్తోంది?,wind,te
+ਚੇਨਈ ਅਤੇ ਮੁੰਬਈ ਦੇ ਮੌਸਮ ਦੀ ਤੁਲਨਾ ਕਰੋ।,weather_comparison,pa
+बेंगलुरु में अभी मौसम कैसा है?,weather_current,hi
+ನಾಳೆ ಹೈದರಾಬಾದ್ನಲ್ಲಿ ಮಳೆ ಬೀಳುತ್ತದೆಯೇ?,rain,kn
+சென்னைவில் காற்றின் தரம் எப்படி உள்ளது?,air_quality,ta
+আজ হায়দ্রাবাদ এর আবহাওয়া কেমন?,weather_current,bn
+ਪੁਣੇ ਲਈ ਕੋਈ ਮੌਸਮ ਚੇਤਾਵਨੀ ਹੈ?,weather_alert,pa
+How is the air quality in Bengaluru?,air_quality,en
+ಪುಣೆನಲ್ಲಿ ಪ್ರಸ್ತುತ ಹವಾಮಾನ ಹೇಗಿದೆ?,weather_current,kn
+ಇಂದು ಕೊಲ್ಕತ್ತಾನಲ್ಲಿ ತೇವಾಂಶ ಎಷ್ಟು ಇರುತ್ತದೆ?,humidity,kn
+बेंगलुरु में आर्द्रता कितनी है?,humidity,hi
+கொல்கத்தா மற்றும் புவனேஸ்வர் வானிலையை ஒப்பிடுங்கள்.,weather_comparison,ta
+ஹைதராபாத்வில் காற்றின் வேகம் எவ்வளவு?,wind,ta
+சென்னைவில் சூரிய அஸ்தமனம் எப்போது?,sunrise_sunset,ta
+ಪುಣೆನಲ್ಲಿ ಸೂರ್ಯೋದಯ ಯಾವಾಗ?,sunrise_sunset,kn
+चेन्नई मध्ये वारा किती जोरात आहे?,wind,mr
+ਦਿੱਲੀ ਵਿੱਚ ਨਮੀ ਕਿੰਨੀ ਹੈ?,humidity,pa
+கொல்கத்தாவில் தற்போதைய வானிலை எப்படி உள்ளது?,weather_current,ta
+Are there any severe weather warnings in Mumbai?,weather_alert,en
+"ହାଇଦ୍ରାବାଦ ନା ଚେନ୍ନାଇ, କେଉଁଠି ଅଧିକ ଥଣ୍ଡା?",weather_comparison,or
+What will the temperature be in Pune tomorrow?,temperature,en
+What is the AQI in Bengaluru?,air_quality,en
+ଆଜି ମୁମ୍ବାଇର ପାଗ କେମିତି?,weather_current,or
+రేపు పుణెలో వాతావరణం ఎలా ఉంటుంది?,weather_forecast,te
+કાલે ભુવનેશ્વરમાં વરસાદ પડશે?,rain,gu
+কলকাতা এ কোনো আবহাওয়া সতর্কতা জারি হয়েছে?,weather_alert,bn
+Is there a chance of rain in Chennai?,rain,en
+What is the air quality in Pune?,air_quality,en
+చెన్నైలో ఎంత తేమ ఉంది?,humidity,te
+ਚੇਨਈ ਵਿੱਚ ਹਵਾ ਦੀ ਰਫ਼ਤਾਰ ਕਿੰਨੀ ਹੈ?,wind,pa
+Will it rain tomorrow in Kolkata?,rain,en
+पुणे मधील सध्याचे हवामान कसे आहे?,weather_current,mr
+ದೆಹಲಿನಲ್ಲಿ ಪ್ರಸ್ತುತ ಹವಾಮಾನ ಹೇಗಿದೆ?,weather_current,kn
+દિલ્હીનો AQI કેટલો છે?,air_quality,gu
+புனேவில் மழைக்கு வாய்ப்பு உள்ளதா?,rain,ta
+ਬੈਂਗਲੁਰੂ ਦਾ ਮੌਸਮ ਪੂਰਵ ਅਨੁਮਾਨ ਕੀ ਹੈ?,weather_forecast,pa
+இன்று பெங்களூருவில் ஈரப்பதம் எவ்வளவு இருக்கும்?,humidity,ta
+ଆସନ୍ତାକାଲି କୋଲକାତାର ତାପମାତ୍ରା କେତେ ରହିବ?,temperature,or
+દિલ્હીમાં પવન કેટલો ઝડપી છે?,wind,gu
+ದೆಹಲಿನಲ್ಲಿ ಪ್ರಸ್ತುತ ಹವಾಮಾನ ಹೇಗಿದೆ?,weather_current,kn
+ଆଜି ବେଙ୍ଗାଲୁରୁର ଆର୍ଦ୍ରତା କେତେ ରହିବ?,humidity,or
+দিল্লি এ কতটা আর্দ্র?,humidity,bn
+बेंगळुरू मध्ये आज हवामान कसे आहे?,weather_current,mr
+ಚೆನ್ನೈನಲ್ಲಿ ಇಂದು ಹವಾಮಾನ ಹೇಗಿದೆ?,weather_current,kn
+ਬੈਂਗਲੁਰੂ ਦਾ ਮੌਸਮ ਪੂਰਵ ਅਨੁਮਾਨ ਕੀ ਹੈ?,weather_forecast,pa
+ମୁମ୍ବାଇରେ କେତେ ଗରମ ଅଛି?,temperature,or
+કાલે બેંગલુરુમાં તાપમાન કેટલું રહેશે?,temperature,gu
+டெல்லி வானிலை முன்னறிவிப்பு என்ன?,weather_forecast,ta
+Are there any severe weather warnings in Hyderabad?,weather_alert,en
+చెన్నై AQI ఎంత?,air_quality,te
+ಪುಣೆನಲ್ಲಿ ಪ್ರಸ್ತುತ ಹವಾಮಾನ ಹೇಗಿದೆ?,weather_current,kn
+भुवनेश्वर में अभी मौसम कैसा है?,weather_current,hi
+ପୁଣେରେ ବର୍ଷା ହେବାର ସମ୍ଭାବନା ଅଛି କି?,rain,or
+ಹೈದರಾಬಾದ್ನಲ್ಲಿ ಪ್ರಸ್ತುತ ಹವಾಮಾನ ಹೇಗಿದೆ?,weather_current,kn
+పుణెలో గాలి నాణ్యత ఎలా ఉంది?,air_quality,te
+ਕੀ ਕੱਲ੍ਹ ਕੋਲਕਾਤਾ ਵਿੱਚ ਮੀਂਹ ਪਵੇਗਾ?,rain,pa
+ମୁମ୍ବାଇରେ କୌଣସି ପାଗ ସତର୍କତା ଅଛି କି?,weather_alert,or
+ಭುವನೇಶ್ವರನಲ್ಲಿ ಇಂದು ಹವಾಮಾನ ಹೇಗಿದೆ?,weather_current,kn
+বেঙ্গালুরু এ কোনো আবহাওয়া সতর্কতা জারি হয়েছে?,weather_alert,bn
+ముంబైలో గాలి ఎంత వేగంగా వీస్తోంది?,wind,te
+புனேவில் எவ்வளவு ஈரப்பதமாக உள்ளது?,humidity,ta
+আগামীকাল চেন্নাই এর আবহাওয়া কেমন থাকবে?,weather_forecast,bn
+How will the weather be in Hyderabad this weekend?,weather_forecast,en
+రేపు భువనేశ్వర్లో వర్షం పడుతుందా?,rain,te
+ଆଜି ଦିଲ୍ଲୀର ପାଗ କେମିତି?,weather_current,or
+କୋଲକାତାରେ ପବନର ବେଗ କେତେ?,wind,or
+કોલકાતામાં સૂર્યોદય કેટલા વાગ્યે થાય છે?,sunrise_sunset,gu
+बेंगलुरु का AQI कितना है?,air_quality,hi
+ఈ వారాంతంలో బెంగళూరులో వాతావరణం ఎలా ఉంటుంది?,weather_forecast,te
+ಚೆನ್ನೈನಲ್ಲಿ ಹವಾಮಾನ ಎಚ್ಚರಿಕೆ ಇದೆಯೇ?,weather_alert,kn
+ನಾಳೆ ಕೊಲ್ಕತ್ತಾನಲ್ಲಿ ತಾಪಮಾನ ಎಷ್ಟು ಇರುತ್ತದೆ?,temperature,kn
+What will the humidity be in Kolkata?,humidity,en
+ચેન્નાઈમાં કેટલી ગરમી છે?,temperature,gu
+ଆଜି ଦିଲ୍ଲୀର ଆର୍ଦ୍ରତା କେତେ ରହିବ?,humidity,or
+બેંગલુરુનો AQI કેટલો છે?,air_quality,gu
+कोलकाता में मौसम की कोई चेतावनी है?,weather_alert,hi
+ਹੈਦਰਾਬਾਦ ਅਤੇ ਪੁਣੇ ਦੇ ਮੌਸਮ ਦੀ ਤੁਲਨਾ ਕਰੋ।,weather_comparison,pa
+రేపు బెంగళూరులో ఉష్ణోగ్రత ఎంత ఉంటుంది?,temperature,te
+दिल्ली मध्ये आज हवामान कसे आहे?,weather_current,mr
+पुणे चे हवामान अंदाज सांगा.,weather_forecast,mr
+ನಾಳೆ ಪುಣೆನಲ್ಲಿ ಮಳೆ ಬೀಳುತ್ತದೆಯೇ?,rain,kn
+पुणे मध्ये हवेची गुणवत्ता कशी आहे?,air_quality,mr
+What is the weather forecast for Mumbai?,weather_forecast,en
+ਇਸ ਹਫ਼ਤੇ ਦੇ ਅੰਤ ਵਿੱਚ ਭੁਵਨੇਸ਼ਵਰ ਵਿੱਚ ਮੌਸਮ ਕਿਹੋ ਜਿਹਾ ਰਹੇਗਾ?,weather_forecast,pa
+उद्या मुंबई मध्ये पाऊस पडेल का?,rain,mr
+இன்று பெங்களூருவில் வானிலை எப்படி இருக்கும்?,weather_current,ta
+હૈદરાબાદમાં સૂર્યાસ્ત કેટલા વાગ્યે થાય છે?,sunrise_sunset,gu
+రేపు కోల్‌కతాలో ఉష్ణోగ్రత ఎంత ఉంటుంది?,temperature,te
+ଭୁବନେଶ୍ୱରର ପାଗ ବିଷୟରେ କୁହନ୍ତୁ।,weather_current,or
+ఈ వారాంతంలో ఢిల్లీలో వాతావరణం ఎలా ఉంటుంది?,weather_forecast,te
+What is the weather like in Bengaluru?,weather_current,en
+చెన్నైలో ప్రస్తుత వాతావరణం ఎలా ఉంది?,weather_current,te
+ਪੁਣੇ ਵਿੱਚ ਹਵਾ ਦੀ ਗੁਣਵੱਤਾ ਕਿਹੋ ਜਿਹੀ ਹੈ?,air_quality,pa
+আজ কি ভুবনেশ্বর এ বৃষ্টি হবে?,rain,bn
+दिल्ली का मौसम पूर्वानुमान बताओ।,weather_forecast,hi
+আগামীকাল চেন্নাই এর তাপমাত্রা কত থাকবে?,temperature,bn
+ਮੁੰਬਈ ਵਿੱਚ ਇਸ ਵੇਲੇ ਮੌਸਮ ਕਿਹੋ ਜਿਹਾ ਹੈ?,weather_current,pa
+ஹைதராபாத்வில் சூரிய அஸ்தமனம் எப்போது?,sunrise_sunset,ta
+ನಾಳೆ ಭುವನೇಶ್ವರನಲ್ಲಿ ಮಳೆ ಬೀಳುತ್ತದೆಯೇ?,rain,kn
+ମୁମ୍ବାଇରେ କେତେ ଆର୍ଦ୍ରତା ଅଛି?,humidity,or
+মুম্বাই এ কতটা আর্দ্র?,humidity,bn
+How cold is it in Mumbai?,temperature,en
+ভুবনেশ্বর এর তাপমাত্রা কত?,temperature,bn
+How cold is it in Delhi?,temperature,en
+చెన్నైలో వర్షం పడే అవకాశం ఉందా?,rain,te
+ଆଜି କୋଲକାତାର ପାଗ କେମିତି?,weather_current,or
+How is the weather today in Delhi?,weather_current,en
+कोलकाता चे हवामान अंदाज सांगा.,weather_forecast,mr
+How is the air quality in Pune?,air_quality,en
+Will it rain tomorrow in Delhi?,rain,en
+ದೆಹಲಿನಲ್ಲಿ ಹವಾಮಾನ ಎಚ್ಚರಿಕೆ ಇದೆಯೇ?,weather_alert,kn
+કોલકાતા અને ચેન્નાઈના હવામાનની તુલના કરો.,weather_comparison,gu
+டெல்லிவில் சூரிய அஸ்தமனம் எப்போது?,sunrise_sunset,ta
+हैदराबाद का वर्तमान मौसम बताओ।,weather_current,hi
+দিল্লি এ বৃষ্টির সম্ভাবনা আছে কি?,rain,bn
+புவனேஸ்வர்வில் மழைக்கு வாய்ப்பு உள்ளதா?,rain,ta
+কলকাতা এ সূর্যোদয় কখন?,sunrise_sunset,bn
+హైదరాబాద్లో గాలి ఎంత వేగంగా వీస్తోంది?,wind,te
+ચેન્નાઈમાં કેટલી ગરમી છે?,temperature,gu
+ਚੇਨਈ ਵਿੱਚ ਸੂਰਜ ਕਿੰਨੇ ਵਜੇ ਚੜ੍ਹਦਾ ਹੈ?,sunrise_sunset,pa
+પુણેમાં સૂર્યાસ્ત કેટલા વાગ્યે થાય છે?,sunrise_sunset,gu
+What is the temperature in Hyderabad?,temperature,en
+புவனேஸ்வர்வில் சூரிய அஸ்தமனம் எப்போது?,sunrise_sunset,ta
+When is sunset in Bengaluru?,sunrise_sunset,en
+ਚੇਨਈ ਲਈ ਕੋਈ ਮੌਸਮ ਚੇਤਾਵਨੀ ਹੈ?,weather_alert,pa
+ଆସନ୍ତାକାଲି ଭୁବନେଶ୍ୱରରେ ବର୍ଷା ହେବ କି?,rain,or
+चेन्नई चा AQI किती आहे?,air_quality,mr
+পুনে এর বর্তমান আবহাওয়া কেমন?,weather_current,bn
+કાલે ચેન્નાઈમાં હવામાન કેવું રહેશે?,weather_forecast,gu
+পুনে এর আবহাওয়া আমাকে বলুন।,weather_current,bn
+হায়দ্রাবাদ এর তাপমাত্রা কত?,temperature,bn
+How cold is it in Mumbai?,temperature,en
+ਹੈਦਰਾਬਾਦ ਲਈ ਕੋਈ ਮੌਸਮ ਚੇਤਾਵਨੀ ਹੈ?,weather_alert,pa
+ਪੁਣੇ ਅਤੇ ਮੁੰਬਈ ਦੇ ਮੌਸਮ ਦੀ ਤੁਲਨਾ ਕਰੋ।,weather_comparison,pa
+उद्या चेन्नई मध्ये पाऊस पडेल का?,rain,mr
+ਅੱਜ ਪੁਣੇ ਦਾ ਮੌਸਮ ਕਿਹੋ ਜਿਹਾ ਹੈ?,weather_current,pa
+चेन्नई में आर्द्रता कितनी है?,humidity,hi
+கொல்கத்தாவில் காற்று எவ்வளவு வேகமாக வீசுகிறது?,wind,ta
+How is the weather today in Hyderabad?,weather_current,en
+ମୁମ୍ବାଇରେ ବାୟୁର ଗୁଣବତ୍ତା କେମିତି?,air_quality,or
+ನಾಳೆ ಕೊಲ್ಕತ್ತಾನಲ್ಲಿ ಹವಾಮಾನ ಹೇಗಿರುತ್ತದೆ?,weather_forecast,kn
+কলকাতা এ সূর্যোদয় কখন?,sunrise_sunset,bn
+उद्या दिल्ली मध्ये पाऊस पडेल का?,rain,mr
+"హైదరాబాద్ లేదా బెంగళూరు, ఏది చల్లగా ఉంది?",weather_comparison,te
+What time does the sun rise in Delhi?,sunrise_sunset,en
+ચેન્નાઈનું હવામાન અનુમાન શું છે?,weather_forecast,gu
+சென்னைவில் எவ்வளவு ஈரப்பதமாக உள்ளது?,humidity,ta
+ବେଙ୍ଗାଲୁରୁରେ ତାପମାତ୍ରା କେତେ?,temperature,or
+કાલે મુંબઈમાં વરસાદ પડશે?,rain,gu
+ਹੈਦਰਾਬਾਦ ਵਿੱਚ ਮੀਂਹ ਦੀ ਸੰਭਾਵਨਾ ਹੈ?,rain,pa
+ఈ రోజు పుణెలో వర్షం పడుతుందా?,rain,te
+"ಚೆನ್ನೈ ಅಥವಾ ಹೈದರಾಬಾದ್, ಯಾವುದು ಹೆಚ್ಚು ತಂಪಾಗಿದೆ?",weather_comparison,kn
+કોલકાતાનું હવામાન અનુમાન શું છે?,weather_forecast,gu
+মুম্বাই এর জন্য কোনো আবহাওয়া সতর্কতা আছে?,weather_alert,bn
+আজ চেন্নাই এর আবহাওয়া কেমন?,weather_current,bn
+டெல்லிவில் ஏதேனும் வானிலை எச்சரிக்கை உள்ளதா?,weather_alert,ta
+ହାଇଦ୍ରାବାଦରେ ପବନର ବେଗ କେତେ?,wind,or
+டெல்லிவில் எவ்வளவு வெப்பமாக உள்ளது?,temperature,ta
+How hot is it in Mumbai?,temperature,en
+ದೆಹಲಿನಲ್ಲಿ ಇಂದು ಹವಾಮಾನ ಹೇಗಿದೆ?,weather_current,kn
+कोलकाता और बेंगलुरु में किसका मौसम बेहतर है?,weather_comparison,hi
+ମୁମ୍ବାଇରେ ସୂର୍ଯ୍ୟୋଦୟ କେତେବେଳେ?,sunrise_sunset,or
+ਭੁਵਨੇਸ਼ਵਰ ਵਿੱਚ ਹਵਾ ਦੀ ਗੁਣਵੱਤਾ ਕਿਹੋ ਜਿਹੀ ਹੈ?,air_quality,pa
+ਹੈਦਰਾਬਾਦ ਵਿੱਚ ਨਮੀ ਕਿੰਨੀ ਹੈ?,humidity,pa
+ਹੈਦਰਾਬਾਦ ਵਿੱਚ ਸੂਰਜ ਕਿੰਨੇ ਵਜੇ ਡੁੱਬਦਾ ਹੈ?,sunrise_sunset,pa
+हैदराबाद का वर्तमान मौसम बताओ।,weather_current,hi
+What is the temperature in Bengaluru?,temperature,en
+What is the chance of rain in Chennai?,rain,en
+ನಾಳೆ ಮುಂಬೈನಲ್ಲಿ ತಾಪಮಾನ ಎಷ್ಟು ಇರುತ್ತದೆ?,temperature,kn
+মুম্বাই এ কতটা আর্দ্র?,humidity,bn
+ఈ రోజు చెన్నైలో తేమ ఎంత ఉంటుంది?,humidity,te
+દિલ્હીમાં પવન કેટલો ઝડપી છે?,wind,gu
+ਕੀ ਅੱਜ ਬੈਂਗਲੁਰੂ ਵਿੱਚ ਮੀਂਹ ਪਵੇਗਾ?,rain,pa
+दिल्ली मध्ये आज हवामान कसे आहे?,weather_current,mr
+दिल्ली मध्ये वाऱ्याचा वेग किती आहे?,wind,mr
+দিল্লি এর তাপমাত্রা কত?,temperature,bn
+बेंगळुरू मध्ये तापमान किती आहे?,temperature,mr
+புனேவில் வெப்பநிலை எவ்வளவு?,temperature,ta
+ବେଙ୍ଗାଲୁରୁର AQI କେତେ?,air_quality,or
+દિલ્હી માટે કોઈ હવામાન ચેતવણી છે?,weather_alert,gu
+ಮುಂಬೈನಲ್ಲಿ ಗಾಳಿಯ ಗುಣಮಟ್ಟ ಹೇಗಿದೆ?,air_quality,kn
+நாளை கொல்கத்தாவில் வானிலை எப்படி இருக்கும்?,weather_forecast,ta
+కోల్‌కతా వాతావరణ సూచన ఏమిటి?,weather_forecast,te
+రేపు బెంగళూరులో వాతావరణం ఎలా ఉంటుంది?,weather_forecast,te
+ଆସନ୍ତାକାଲି ମୁମ୍ବାଇର ତାପମାତ୍ରା କେତେ ରହିବ?,temperature,or
+દિલ્હી અને કોલકાતાના હવામાનની તુલના કરો.,weather_comparison,gu
+ఈ రోజు పుణెలో తేమ ఎంత ఉంటుంది?,humidity,te
+What is the air quality in Delhi?,air_quality,en
+ఈ రోజు పుణెలో వాతావరణం ఎలా ఉంటుంది?,weather_current,te
+চেন্নাই এ কতটা আর্দ্র?,humidity,bn
+आज चेन्नई में नमी कितनी रहेगी?,humidity,hi
+આજે ચેન્નાઈમાં ભેજ કેટલો રહેશે?,humidity,gu
+ಮುಂಬೈನ AQI ಎಷ್ಟು?,air_quality,kn
+ਹੈਦਰਾਬਾਦ ਵਿੱਚ ਹਵਾ ਦੀ ਗੁਣਵੱਤਾ ਕਿਹੋ ਜਿਹੀ ਹੈ?,air_quality,pa
+புனேவில் ஏதேனும் வானிலை எச்சரிக்கை உள்ளதா?,weather_alert,ta
+আগামীকাল কি হায়দ্রাবাদ এ বৃষ্টি হবে?,rain,bn
+ಹೈದರಾಬಾದ್ನಲ್ಲಿ ತಾಪಮಾನ ಎಷ್ಟು?,temperature,kn
+Is there a weather warning for Kolkata?,weather_alert,en
+ಕೊಲ್ಕತ್ತಾನ AQI ಎಷ್ಟು?,air_quality,kn
+हैदराबाद मध्ये सूर्योदय किती वाजता होतो?,sunrise_sunset,mr
+ਦਿੱਲੀ ਵਿੱਚ ਕਿੰਨੀ ਨਮੀ ਹੈ?,humidity,pa
+चेन्नई में हवा कितनी तेज है?,wind,hi
+ਕੱਲ੍ਹ ਬੈਂਗਲੁਰੂ ਵਿੱਚ ਤਾਪਮਾਨ ਕਿੰਨਾ ਰਹੇਗਾ?,temperature,pa
+ଏହି ସପ୍ତାହ ଶେଷରେ ଚେନ୍ନାଇର ପାଗ କେମିତି ରହିବ?,weather_forecast,or
+ಮುಂಬೈನಲ್ಲಿ ಗಾಳಿ ಎಷ್ಟು ವೇಗವಾಗಿ ಬೀಸುತ್ತಿದೆ?,wind,kn
+ఢిల్లీలో తేమ ఎంత?,humidity,te
+ಭುವನೇಶ್ವರನಲ್ಲಿ ಮಳೆಯ ಸಾಧ್ಯತೆ ಇದೆಯೇ?,rain,kn
+आज चेन्नई चे हवामान कसे आहे?,weather_current,mr
+ଦିଲ୍ଲୀର ପାଗ ବିଷୟରେ କୁହନ୍ତୁ।,weather_current,or
+இன்று சென்னைவில் ஈரப்பதம் எவ்வளவு இருக்கும்?,humidity,ta
+ఢిల్లీలో ఎంత వేడిగా ఉంది?,temperature,te
+કોલકાતા માટે કોઈ હવામાન ચેતવણી છે?,weather_alert,gu
+उद्या दिल्ली मध्ये तापमान किती असेल?,temperature,mr
+நாளை புனேவில் வெப்பநிலை எவ்வளவு இருக்கும்?,temperature,ta
+પુણેમાં કેટલી ગરમી છે?,temperature,gu
+मुंबई में बारिश की संभावना है?,rain,hi
+What time does the sun rise in Pune?,sunrise_sunset,en
+ଆଜି ପୁଣେର ଆର୍ଦ୍ରତା କେତେ ରହିବ?,humidity,or
+এই সপ্তাহান্তে ভুবনেশ্বর এর আবহাওয়া কেমন হবে?,weather_forecast,bn
+चेन्नई मध्ये वाऱ्याचा वेग किती आहे?,wind,mr
+What is the humidity in Delhi?,humidity,en
+দিল্লি এর আর্দ্রতা কত?,humidity,bn
+মুম্বাই এ সূর্যাস্ত কখন?,sunrise_sunset,bn
+மும்பை வானிலை முன்னறிவிப்பு என்ன?,weather_forecast,ta
+ముంబైలో తేమ ఎంత?,humidity,te
+এই সপ্তাহান্তে মুম্বাই এর আবহাওয়া কেমন হবে?,weather_forecast,bn
+ਕੋਲਕਾਤਾ ਵਿੱਚ ਮੌਸਮ ਦੀ ਕੋਈ ਚੇਤਾਵਨੀ ਹੈ?,weather_alert,pa
+Is rain expected in Pune?,rain,en
+ಮುಂಬೈನ AQI ಎಷ್ಟು?,air_quality,kn
+What time is sunrise in Chennai?,sunrise_sunset,en
+Are there any weather alerts for Pune?,weather_alert,en
+ದೆಹಲಿಗೆ ಯಾವುದೇ ಹವಾಮಾನ ಎಚ್ಚರಿಕೆ ಇದೆಯೇ?,weather_alert,kn
+ଚେନ୍ନାଇରେ କେତେ ଆର୍ଦ୍ରତା ଅଛି?,humidity,or
+হায়দ্রাবাদ এর বায়ুর মান কেমন?,air_quality,bn
+How will the weather be in Chennai this weekend?,weather_forecast,en
+What weather can I expect in Pune tomorrow?,weather_forecast,en
+ఈ రోజు ఢిల్లీలో వర్షం పడుతుందా?,rain,te
+ભુવનેશ્વરમાં સૂર્યાસ્ત કેટલા વાગ્યે થાય છે?,sunrise_sunset,gu
+আজ চেন্নাই এর আর্দ্রতা কত থাকবে?,humidity,bn
+ਅੱਜ ਹੈਦਰਾਬਾਦ ਦਾ ਮੌਸਮ ਕਿਹੋ ਜਿਹਾ ਹੈ?,weather_current,pa
+हैदराबाद साठी हवामानाची कोणतीही चेतावणी आहे का?,weather_alert,mr
+ଦିଲ୍ଲୀ ପାଇଁ କୌଣସି ପାଣିପାଗ ସତର୍କତା ଅଛି କି?,weather_alert,or
+ਦਿੱਲੀ ਵਿੱਚ ਕਿੰਨੀ ਗਰਮੀ ਹੈ?,temperature,pa
+டெல்லி வானிலை முன்னறிவிப்பு என்ன?,weather_forecast,ta
+நாளை ஹைதராபாத்வில் வெப்பநிலை எவ்வளவு இருக்கும்?,temperature,ta
+இன்று டெல்லிவில் வானிலை எப்படி இருக்கும்?,weather_current,ta
+ನಾಳೆ ಹೈದರಾಬಾದ್ನಲ್ಲಿ ಮಳೆ ಬೀಳುತ್ತದೆಯೇ?,rain,kn
+புவனேஸ்வர்வில் காற்று எவ்வளவு வேகமாக வீசுகிறது?,wind,ta
+What time does the sun rise in Bengaluru?,sunrise_sunset,en
+ਪੁਣੇ ਲਈ ਕੋਈ ਮੌਸਮ ਚੇਤਾਵਨੀ ਹੈ?,weather_alert,pa
+What is the humidity in Bengaluru?,humidity,en
+కోల్‌కతాలో వర్షం పడే అవకాశం ఉందా?,rain,te
+டெல்லிவில் காற்று எவ்வளவு வேகமாக வீசுகிறது?,wind,ta
+भुवनेश्वर मध्ये किती दमट आहे?,humidity,mr
+ଦିଲ୍ଲୀର AQI କେତେ?,air_quality,or
+આજે કોલકાતામાં વરસાદ પડશે?,rain,gu
+બેંગલુરુમાં સૂર્યાસ્ત કેટલા વાગ્યે થાય છે?,sunrise_sunset,gu
+ਦਿੱਲੀ ਵਿੱਚ ਸੂਰਜ ਕਿੰਨੇ ਵਜੇ ਚੜ੍ਹਦਾ ਹੈ?,sunrise_sunset,pa
+ପୁଣେର ବର୍ତ୍ତମାନ ପାଗ କେମିତି?,weather_current,or
+बेंगळुरू मध्ये आर्द्रता किती आहे?,humidity,mr
+ਅੱਜ ਚੇਨਈ ਵਿੱਚ ਨਮੀ ਕਿੰਨੀ ਰਹੇਗੀ?,humidity,pa
+इस सप्ताह के अंत में कोलकाता में मौसम कैसा रहेगा?,weather_forecast,hi
+What will the humidity be in Delhi?,humidity,en
+ଆସନ୍ତାକାଲି ପୁଣେରେ ବର୍ଷା ହେବ କି?,rain,or
+"ଚେନ୍ନାଇ ନା ବେଙ୍ଗାଲୁରୁ, କେଉଁଠି ଅଧିକ ଥଣ୍ଡା?",weather_comparison,or
+চেন্নাই এর জন্য কোনো আবহাওয়া সতর্কতা আছে?,weather_alert,bn
+ચેન્નાઈમાં સૂર્યાસ્ત કેટલા વાગ્યે થાય છે?,sunrise_sunset,gu
+মুম্বাই এর জন্য কোনো আবহাওয়া সতর্কতা আছে?,weather_alert,bn
+ఢిల్లీలో వాతావరణ హెచ్చరిక ఉందా?,weather_alert,te
+कल हैदराबाद में तापमान कितना रहेगा?,temperature,hi
+రేపు భువనేశ్వర్లో ఉష్ణోగ్రత ఎంత ఉంటుంది?,temperature,te
+హైదరాబాద్లో వర్షం పడే అవకాశం ఉందా?,rain,te
+পুনে এর বর্তমান আবহাওয়া কেমন?,weather_current,bn
+What weather can I expect in Pune tomorrow?,weather_forecast,en
+ଆଜି ହାଇଦ୍ରାବାଦରେ ବର୍ଷା ହେବ କି?,rain,or
+Compare the weather in Kolkata and Pune.,weather_comparison,en
+புனேவில் ஏதேனும் வானிலை எச்சரிக்கை உள்ளதா?,weather_alert,ta
+பெங்களூருவில் ஏதேனும் வானிலை எச்சரிக்கை உள்ளதா?,weather_alert,ta
+ਦਿੱਲੀ ਵਿੱਚ ਸੂਰਜ ਕਿੰਨੇ ਵਜੇ ਚੜ੍ਹਦਾ ਹੈ?,sunrise_sunset,pa
+What time does the sun rise in Pune?,sunrise_sunset,en
+भुवनेश्वर में कितनी गर्मी है?,temperature,hi
+புவனேஸ்வர்வில் எவ்வளவு ஈரப்பதமாக உள்ளது?,humidity,ta
+मुंबई में हवा की गुणवत्ता कैसी है?,air_quality,hi
+এই সপ্তাহান্তে দিল্লি এর আবহাওয়া কেমন হবে?,weather_forecast,bn
+ਹੈਦਰਾਬਾਦ ਵਿੱਚ ਇਸ ਵੇਲੇ ਮੌਸਮ ਕਿਹੋ ਜਿਹਾ ਹੈ?,weather_current,pa
+ମୁମ୍ବାଇରେ ସୂର୍ଯ୍ୟୋଦୟ କେତେବେଳେ?,sunrise_sunset,or
+பெங்களூருவில் காற்றின் வேகம் எவ்வளவு?,wind,ta
+ਚੇਨਈ ਵਿੱਚ ਇਸ ਵੇਲੇ ਮੌਸਮ ਕਿਹੋ ਜਿਹਾ ਹੈ?,weather_current,pa
+ହାଇଦ୍ରାବାଦରେ କେତେ ଆର୍ଦ୍ରତା ଅଛି?,humidity,or
+આજે મુંબઈમાં હવામાન કેવું છે?,weather_current,gu
+ఈ రోజు ఢిల్లీలో తేమ ఎంత ఉంటుంది?,humidity,te
+What is the air quality in Hyderabad?,air_quality,en
+দিল্লি এবং চেন্নাই এর আবহাওয়ার তুলনা করুন।,weather_comparison,bn
+पुणे मध्ये तापमान किती आहे?,temperature,mr
+हैदराबाद मध्ये आज हवामान कसे आहे?,weather_current,mr
+আজ মুম্বাই এর আর্দ্রতা কত থাকবে?,humidity,bn
+ఈ రోజు భువనేశ్వర్లో వాతావరణం ఎలా ఉంటుంది?,weather_current,te
+ಮುಂಬೈನಲ್ಲಿ ಇಂದು ಹವಾಮಾನ ಹೇಗಿದೆ?,weather_current,kn
+ఢిల్లీలో గాలి ఎంత వేగంగా వీస్తోంది?,wind,te
+ਮੁੰਬਈ ਵਿੱਚ ਅੱਜ ਮੌਸਮ ਕਿਹੋ ਜਿਹਾ ਹੈ?,weather_current,pa
+पुणे का AQI कितना है?,air_quality,hi
+दिल्ली में आज मौसम कैसा है?,weather_current,hi
+What is the weather in Delhi today?,weather_current,en
+આજે મુંબઈમાં હવામાન કેવું છે?,weather_current,gu
+আজ হায়দ্রাবাদ এর আবহাওয়া কেমন?,weather_current,bn
+హైదరాబాద్ మరియు బెంగళూరు వాతావరణాన్ని పోల్చండి.,weather_comparison,te
+ಚೆನ್ನೈನಲ್ಲಿ ಸೂರ್ಯಾಸ್ತ ಯಾವಾಗ?,sunrise_sunset,kn
+बेंगळुरू मध्ये किती दमट आहे?,humidity,mr
+ఢిల్లీలో గాలి ఎంత వేగంగా వీస్తోంది?,wind,te
+बेंगलुरु में हवा कितनी तेज है?,wind,hi
+আজ কি চেন্নাই এ বৃষ্টি হবে?,rain,bn
+ચેન્નાઈ માટે કોઈ હવામાન ચેતવણી છે?,weather_alert,gu
+కోల్‌కతా వాతావరణ సూచన ఏమిటి?,weather_forecast,te
+ଆଜି କୋଲକାତାରେ ବର୍ଷା ହେବ କି?,rain,or
+પુણેમાં હવાની ગુણવત્તા કેવી છે?,air_quality,gu
+What will the humidity be in Pune?,humidity,en
+દિલ્હીમાં હવાની ગુણવત્તા કેવી છે?,air_quality,gu
+আগামীকাল মুম্বাই এর তাপমাত্রা কত থাকবে?,temperature,bn
+हैदराबाद चे हवामान अंदाज सांगा.,weather_forecast,mr
+पुणे मधील सध्याचे हवामान कसे आहे?,weather_current,mr
+કાલે ભુવનેશ્વરમાં તાપમાન કેટલું રહેશે?,temperature,gu
+ମୁମ୍ବାଇର AQI କେତେ?,air_quality,or
+ਭੁਵਨੇਸ਼ਵਰ ਵਿੱਚ ਤਾਪਮਾਨ ਕਿੰਨਾ ਹੈ?,temperature,pa
+புனேவில் சூரிய உதயம் எப்போது?,sunrise_sunset,ta
+ਕੋਲਕਾਤਾ ਵਿੱਚ ਤਾਪਮਾਨ ਕਿੰਨਾ ਹੈ?,temperature,pa
+చెన్నై AQI ఎంత?,air_quality,te
+ଦିଲ୍ଲୀରେ ତାପମାତ୍ରା କେତେ?,temperature,or
+દિલ્હીમાં સૂર્યાસ્ત કેટલા વાગ્યે થાય છે?,sunrise_sunset,gu
+What is the weather like in Bhubaneswar?,weather_current,en
+ಈ ವಾರಾಂತ್ಯದಲ್ಲಿ ಚೆನ್ನೈನಲ್ಲಿ ಹವಾಮಾನ ಹೇಗಿರುತ್ತದೆ?,weather_forecast,kn
+புவனேஸ்வர்வில் ஈரப்பதம் எவ்வளவு?,humidity,ta
+ਚੇਨਈ ਵਿੱਚ ਸੂਰਜ ਕਿੰਨੇ ਵਜੇ ਡੁੱਬਦਾ ਹੈ?,sunrise_sunset,pa
+ನಾಳೆ ಪುಣೆನಲ್ಲಿ ಹವಾಮಾನ ಹೇಗಿರುತ್ತದೆ?,weather_forecast,kn
+டெல்லிவில் காற்றின் தரம் எப்படி உள்ளது?,air_quality,ta
+இந்த வார இறுதியில் புனேவில் வானிலை எப்படி இருக்கும்?,weather_forecast,ta
+બેંગલુરુમાં હવાની ગુણવત્તા કેવી છે?,air_quality,gu
+इस सप्ताह के अंत में पुणे में मौसम कैसा रहेगा?,weather_forecast,hi
+ଆଜି ଦିଲ୍ଲୀର ଆର୍ଦ୍ରତା କେତେ ରହିବ?,humidity,or
+Will it rain in Chennai today?,rain,en
+భువనేశ్వర్లో గాలి నాణ్యత ఎలా ఉంది?,air_quality,te
+Tell me the temperature in Bhubaneswar.,temperature,en
+சென்னைவில் தற்போதைய வானிலை எப்படி உள்ளது?,weather_current,ta
+ఈ రోజు కోల్‌కతాలో తేమ ఎంత ఉంటుంది?,humidity,te
+రేపు పుణెలో వర్షం పడుతుందా?,rain,te
+What weather can I expect in Mumbai tomorrow?,weather_forecast,en
+દિલ્હીમાં ભેજ કેટલો છે?,humidity,gu
+चेन्नई मध्ये हवामानाचा इशारा आहे का?,weather_alert,mr
+ಕೊಲ್ಕತ್ತಾನ AQI ಎಷ್ಟು?,air_quality,kn
+आज कोलकाता मध्ये आर्द्रता किती असेल?,humidity,mr
+कोलकाता मध्ये हवामानाचा इशारा आहे का?,weather_alert,mr
+What time is sunrise in Hyderabad?,sunrise_sunset,en
+दिल्ली चा AQI किती आहे?,air_quality,mr
+कोलकाता में आर्द्रता कितनी है?,humidity,hi
+ਕੋਲਕਾਤਾ ਵਿੱਚ ਇਸ ਵੇਲੇ ਮੌਸਮ ਕਿਹੋ ਜਿਹਾ ਹੈ?,weather_current,pa
+આજે કોલકાતામાં વરસાદ પડશે?,rain,gu
+ਪੁਣੇ ਵਿੱਚ ਕਿੰਨੀ ਗਰਮੀ ਹੈ?,temperature,pa
+ଚେନ୍ନାଇର ପାଗ ବିଷୟରେ କୁହନ୍ତୁ।,weather_current,or
+বেঙ্গালুরু এর আবহাওয়ার পূর্বাভাস কী?,weather_forecast,bn
+ਹੈਦਰਾਬਾਦ ਵਿੱਚ ਮੌਸਮ ਦੀ ਕੋਈ ਚੇਤਾਵਨੀ ਹੈ?,weather_alert,pa
+How cold is it in Pune?,temperature,en
+ଦିଲ୍ଲୀରେ ଆର୍ଦ୍ରତା କେତେ?,humidity,or
+चेन्नई आणि दिल्ली पैकी कोणते शहर थंड आहे?,weather_comparison,mr
+பெங்களூருவில் காற்றின் வேகம் எவ்வளவு?,wind,ta
+আগামীকাল কলকাতা এর আবহাওয়া কেমন থাকবে?,weather_forecast,bn
+આજે બેંગલુરુમાં હવામાન કેવું છે?,weather_current,gu
+ભુવનેશ્વરમાં પવન કેટલો ઝડપી છે?,wind,gu
+ನಾಳೆ ಕೊಲ್ಕತ್ತಾನಲ್ಲಿ ಹವಾಮಾನ ಹೇಗಿರುತ್ತದೆ?,weather_forecast,kn
+நாளை கொல்கத்தாவில் வானிலை எப்படி இருக்கும்?,weather_forecast,ta
+What will the weather be like in Hyderabad tomorrow?,weather_forecast,en
+मुंबई मध्ये वारा किती जोरात आहे?,wind,mr
+Will it rain tomorrow in Mumbai?,rain,en
+আজ পুনে এর আর্দ্রতা কত থাকবে?,humidity,bn
+ఈ రోజు పుణెలో వాతావరణం ఎలా ఉంటుంది?,weather_current,te
+হায়দ্রাবাদ এর বর্তমান আবহাওয়া কেমন?,weather_current,bn
+ಕೊಲ್ಕತ್ತಾನಲ್ಲಿ ಎಷ್ಟು ತೇವಾಂಶ ಇದೆ?,humidity,kn
+ভুবনেশ্বর এর বর্তমান আবহাওয়া কেমন?,weather_current,bn
+পুনে এ কোনো আবহাওয়া সতর্কতা জারি হয়েছে?,weather_alert,bn
+ଆସନ୍ତାକାଲି ବେଙ୍ଗାଲୁରୁରେ ବର୍ଷା ହେବ କି?,rain,or
+ଆଜି ମୁମ୍ବାଇର ଆର୍ଦ୍ରତା କେତେ ରହିବ?,humidity,or
+ଦିଲ୍ଲୀରେ ଆର୍ଦ୍ରତା କେତେ?,humidity,or
+कोलकाता में सूर्योदय कितने बजे होगा?,sunrise_sunset,hi
+दिल्ली मध्ये आर्द्रता किती आहे?,humidity,mr
+ପୁଣେରେ ତାପମାତ୍ରା କେତେ?,temperature,or
+চেন্নাই এর আবহাওয়ার পূর্বাভাস কী?,weather_forecast,bn
+આજે ભુવનેશ્વરમાં વરસાદ પડશે?,rain,gu
+"ହାଇଦ୍ରାବାଦ ନା ଚେନ୍ନାଇ, କେଉଁଠି ଅଧିକ ଥଣ୍ଡା?",weather_comparison,or
+What is the weather in Kolkata today?,weather_current,en
+पुणे का वर्तमान मौसम बताओ।,weather_current,hi
+चेन्नई में हवा की गुणवत्ता कैसी है?,air_quality,hi
+How humid is it in Kolkata?,humidity,en
+చెన్నైలో గాలి వేగం ఎంత?,wind,te
+ਅੱਜ ਦਿੱਲੀ ਵਿੱਚ ਨਮੀ ਕਿੰਨੀ ਰਹੇਗੀ?,humidity,pa
+क्या आज कोलकाता में बारिश होगी?,rain,hi
+చెన్నైలో గాలి ఎంత వేగంగా వీస్తోంది?,wind,te
+ಇಂದು ಪುಣೆನಲ್ಲಿ ಹವಾಮಾನ ಹೇಗಿರುತ್ತದೆ?,weather_current,kn
+মুম্বাই এ কতটা আর্দ্র?,humidity,bn
+హైదరాబాద్లో వర్షం పడే అవకాశం ఉందా?,rain,te
+What is the weather like in Pune?,weather_current,en
+या आठवड्याच्या शेवटी मुंबई मध्ये हवामान कसे असेल?,weather_forecast,mr
+ಕೊಲ್ಕತ್ತಾನಲ್ಲಿ ತಾಪಮಾನ ಎಷ್ಟು?,temperature,kn
+"Which is hotter, Mumbai or Chennai?",weather_comparison,en
+दिल्ली मध्ये हवामानाचा इशारा आहे का?,weather_alert,mr
+ಚೆನ್ನೈನಲ್ಲಿ ಪ್ರಸ್ತುತ ಹವಾಮಾನ ಹೇಗಿದೆ?,weather_current,kn
+આજે કોલકાતામાં ભેજ કેટલો રહેશે?,humidity,gu
+ਭੁਵਨੇਸ਼ਵਰ ਦਾ ਮੌਸਮ ਪੂਰਵ ਅਨੁਮਾਨ ਕੀ ਹੈ?,weather_forecast,pa
+How is the weather today in Kolkata?,weather_current,en
+చెన్నైలో సూర్యాస్తమయం ఎప్పుడు?,sunrise_sunset,te
+ఈ రోజు బెంగళూరులో వాతావరణం ఎలా ఉంటుంది?,weather_current,te
+ಇಂದು ಭುವನೇಶ್ವರನಲ್ಲಿ ತೇವಾಂಶ ಎಷ್ಟು ಇರುತ್ತದೆ?,humidity,kn
+"ହାଇଦ୍ରାବାଦ ନା ଚେନ୍ନାଇ, କେଉଁଠି ଅଧିକ ଥଣ୍ଡା?",weather_comparison,or
+ಇಂದು ಮುಂಬೈನಲ್ಲಿ ಹವಾಮಾನ ಹೇಗಿರುತ್ತದೆ?,weather_current,kn
+ಪುಣೆನಲ್ಲಿ ಸೂರ್ಯಾಸ್ತ ಯಾವಾಗ?,sunrise_sunset,kn
+ಇಂದು ಪುಣೆನಲ್ಲಿ ತೇವಾಂಶ ಎಷ್ಟು ಇರುತ್ತದೆ?,humidity,kn
+ଆସନ୍ତାକାଲି ପୁଣେରେ ପାଗ କେମିତି ରହିବ?,weather_forecast,or
+আগামীকাল কি পুনে এ বৃষ্টি হবে?,rain,bn
+ಮುಂಬೈನಲ್ಲಿ ಮಳೆಯ ಸಾಧ್ಯತೆ ಇದೆಯೇ?,rain,kn
+How will the weather be in Chennai this weekend?,weather_forecast,en
+What is the weather like in Bhubaneswar?,weather_current,en
+ਹੈਦਰਾਬਾਦ ਵਿੱਚ ਸੂਰਜ ਕਿੰਨੇ ਵਜੇ ਚੜ੍ਹਦਾ ਹੈ?,sunrise_sunset,pa
+बेंगळुरू मध्ये हवामानाचा इशारा आहे का?,weather_alert,mr
+ଚେନ୍ନାଇରେ କେତେ ଆର୍ଦ୍ରତା ଅଛି?,humidity,or
+કાલે દિલ્હીમાં તાપમાન કેટલું રહેશે?,temperature,gu
+ਅੱਜ ਦਿੱਲੀ ਦਾ ਮੌਸਮ ਕਿਹੋ ਜਿਹਾ ਹੈ?,weather_current,pa
+What is the weather like in Bengaluru?,weather_current,en
+चेन्नई में आर्द्रता कितनी है?,humidity,hi
+हैदराबाद में आर्द्रता कितनी है?,humidity,hi
+ನಾಳೆ ಬೆಂಗಳೂರುನಲ್ಲಿ ಮಳೆ ಬೀಳುತ್ತದೆಯೇ?,rain,kn
+How is the weather in Bhubaneswar right now?,weather_current,en
+કોલકાતાનું હાલનું હવામાન કેવું છે?,weather_current,gu
+What weather can I expect in Pune tomorrow?,weather_forecast,en
+ಕೊಲ್ಕತ್ತಾನಲ್ಲಿ ಗಾಳಿ ಎಷ್ಟು ವೇಗವಾಗಿ ಬೀಸುತ್ತಿದೆ?,wind,kn
+दिल्ली में अभी मौसम कैसा है?,weather_current,hi
+ಕೊಲ್ಕತ್ತಾನಲ್ಲಿ ಸೂರ್ಯಾಸ್ತ ಯಾವಾಗ?,sunrise_sunset,kn
+আগামীকাল চেন্নাই এর আবহাওয়া কেমন থাকবে?,weather_forecast,bn
+ಚೆನ್ನೈನಲ್ಲಿ ಪ್ರಸ್ತುತ ಹವಾಮಾನ ಹೇಗಿದೆ?,weather_current,kn
+மும்பைவில் ஏதேனும் வானிலை எச்சரிக்கை உள்ளதா?,weather_alert,ta
