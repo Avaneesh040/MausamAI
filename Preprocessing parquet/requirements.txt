@@ -1,0 +1,10 @@
+xarray
+netCDF4
+dask
+pandas
+numpy
+rasterio
+richdem       # optional but recommended — enables flow accumulation + TWI
+pyarrow       # parquet read/write
+openpyxl      # .xlsx reading
+xlrd==1.2.0   # legacy .xls reading (newer xlrd dropped xls support)
